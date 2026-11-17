@@ -1,5 +1,7 @@
 # Baseline validation — Prompt 10 — 2026-10-30
 
+> **Note added 2026-11-17.** This is the Phase III record. It was accurate when written: held-out cases hadn't been scored then, and there were 10 tests. Held-out results now exist (see [`evaluation_report.md`](evaluation_report.md)), the suite has 17 tests, and `verify.py` also regenerates and checks every Phase IV result. The B1 pilot numbers below are unchanged.
+
 **Status: VERIFIED for the stated DOI-only pilot contract; not a reproduction of published end-to-end RefChecker results.** Original method motivation: database-backed reference checking in Lab06 §5.3. Deliberate adaptations: structured records, one registry, no PDF parsing, no multi-database cascade, no LLM escalation. Published conference hallucination rates have different data/denominators and cannot be numerical replication targets here.
 
 ## Genuine measured output

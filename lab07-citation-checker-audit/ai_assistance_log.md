@@ -42,5 +42,6 @@ User prompt (paraphrased): continue the LabQ7 assignment from Phase III and comp
 | 22 | Prompt 16: peer review | `peer_review.md` (4 major, 6 minor) and revision log | — | Revisions applied and recompiled; no numbers changed; pre-review PDF kept |
 | 23 | Prompt 17: repository docs | README with reproduction checklist, data/paper READMEs, requirements | — | Unrun commands marked [TEST REQUIRED] |
 | 24 | Prompt 18: AI audit | `ai_audit.md`, `demo_walkthrough.md` | — | Lists only events that appear in logs or in this session |
+| 25 | Repository publication and full recheck (user requests) | Pushed to the existing GitHub repo as a subfolder; corrected root README (missing file link, Lab 1 score 97.5% to 95.0%), replaced the outdated Lab 06 paper; added Phase IV code notes, an executed results notebook and `scripts/check_paper_numbers.py` | User asked for the push and for items 1-9 | **Error found by recomputation:** the paper said the sample's median year was 2012; it is 2010. Fixed; all 32 paper numbers now checked automatically in `verify.py` |
 
-Nothing was uploaded, pushed, submitted or approved on the student's behalf. Pending student entry: personal review of Phase IV–VI outputs and decisions.
+Pushes to GitHub were made at the user's request. Nothing was submitted or approved on the student's behalf. Pending student entry: personal review of Phase IV–VI outputs and decisions.

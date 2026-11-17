@@ -40,6 +40,7 @@ def main():
     run('phase4_rebuild_ext', ['scripts/acquire_ext.py', '--offline'])
     run('phase4_evaluate', ['scripts/evaluate.py'])
     run('phase4_figures', ['scripts/make_figures.py'])
+    run('paper_numbers', ['scripts/check_paper_numbers.py'])
     regenerated = {p: digest(p) for p in phase4}
     if reported != regenerated:
         changed = [p for p in phase4 if reported[p] != regenerated[p]]

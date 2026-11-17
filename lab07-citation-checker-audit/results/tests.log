@@ -22,6 +22,6 @@ test_reason_lists_every_failed_field (test_phase4.PhaseFourTests.test_reason_lis
 test_stress_cases_are_valid_and_applicability_respected (test_phase4.PhaseFourTests.test_stress_cases_are_valid_and_applicability_respected) ... ok
 
 ----------------------------------------------------------------------
-Ran 17 tests in 0.003s
+Ran 17 tests in 0.011s
 
 OK

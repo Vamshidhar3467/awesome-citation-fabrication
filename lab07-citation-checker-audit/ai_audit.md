@@ -38,6 +38,7 @@ None of these was caught by the student. They were caught by running code, by lo
 2. **A wrong test.** A new test expected "Spectroscopic" to be the word split by the hyphenation variant, but "characterisation" is longer. The code was right and the AI's expectation was wrong. Only the test was changed.
 3. **A missing cache entry.** The first held-out run stopped with `FileNotFoundError` for an uncached synthetic test DOI. That came from a Phase III decision to cache only pilot lookups. The fix was to look up the 8 test DOIs, inside the request budget already set in the amendment. No output had been written.
 4. **Overclaims caught while checking the draft against data.** The draft said B3 removed "a third" of the flags (it was 30/47 ≈ 64%). It said four legitimate variants match Russinovich et al.'s false-positive causes (only two do directly). It described Walters and Wilder's method in more detail than the verified notes support. The evaluation report gave a prediction row count of 1,413 (the file has 1,509, because the pilot is included). The review quoted 0–5 stress cases per work (it's 0–4). All were corrected, and each one was found by checking a file or count, not by rereading the prose.
+4b. **A wrong statistic that survived review.** The paper reported the extension sample's median publication year as 2012. It was computed by taking the 21st of 40 sorted values instead of averaging the 20th and 21st; the true median is 2010. The self-review missed it. A later systematic recheck caught it, and every number in the paper is now recomputed by `scripts/check_paper_numbers.py` as part of `verify.py`.
 5. **Design weakness found in review.** The self-review pointed out that B3's headline improvement was designed together with the test it passes. The paper now says this explicitly and no longer presents it as general validation of B3.
 6. **Tooling slips.** A `sed` edit turned `\citep` into a tab character. A shell heredoc broke on quoting. Both were found by the compiler or the shell, and both were fixed.
 
@@ -55,12 +56,12 @@ Fast generation was never the bottleneck. Verification was: byte-comparing the r
 - The student hasn't yet read or approved the Phase IV–VI content. A viva would expose that.
 - Labels and lookups share one registry, and the legitimate variants are registry-derived.
 - The extension sample can't be redrawn. Its validity depends on the saved snapshot.
-- Nothing has been pushed to GitHub, no licence has been chosen and no instructor gate has been signed off.
+- The work is on GitHub under the repository's CC BY 4.0 licence (pushed at the user's request). No instructor gate has been signed off.
 
 ## What only the student can do before submission
 
 1. Read `contribution_plan.md`, `results_discussion.md` and the paper, and either accept the framing or change it. The paper is written in your voice, so it should say what you'd say.
 2. Pick three cases from `results/phase4/predictions.csv` (one "et al.", one abbreviated venue, one Frankenstein) and trace each from case file to cache to prediction by hand.
 3. Be ready to explain the viva points in `demo_walkthrough.md`, especially why the 100% recall isn't impressive and why B3's improvement is by construction.
-4. Choose a licence, create the GitHub repository and push it. The agent didn't publish anything.
+4. Check the GitHub copy (pushed at your request) and decide whether CC BY 4.0 suits the code or you want MIT added.
 5. Add your own entry to `ai_assistance_log.md` recording what you checked and decided.

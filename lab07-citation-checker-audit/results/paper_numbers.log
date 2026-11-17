@@ -1,0 +1,6 @@
+COMMAND: python scripts/check_paper_numbers.py
+EXIT CODE: 0
+STDOUT:
+32/32 claims verified
+
+STDERR:

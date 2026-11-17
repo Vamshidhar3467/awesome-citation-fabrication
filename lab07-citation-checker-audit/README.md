@@ -39,6 +39,7 @@ Individual steps, all offline against the cached Crossref facts:
 | Development check on pilot | `python scripts/evaluate.py --pilot-only` | `results/phase4/pilot_*` |
 | Held-out evaluation | `python scripts/evaluate.py` | `results/phase4/*.csv/json` |
 | Figures | `python scripts/make_figures.py` | `paper/figures/*.pdf/png` |
+| Check every number in the paper | `python scripts/check_paper_numbers.py` | `paper/evidence_checklist.md` (32 claims recomputed and matched against `main.tex`) |
 | Results notebook | `python scripts/make_phase4_notebook.py` (needs `nbformat`, `nbclient`, `ipykernel`) | `notebooks/phase4_results.ipynb` |
 | Paper | `cd paper; latexmk -pdf main.tex` | `paper/main.pdf` (built with MiKTeX `pdflatex`/`bibtex`) |
 
