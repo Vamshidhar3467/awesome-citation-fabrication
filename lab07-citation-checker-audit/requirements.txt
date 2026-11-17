@@ -3,4 +3,5 @@
 # Figures only (scripts/make_figures.py); versions are those actually installed and used on 2026-11-17:
 matplotlib==3.11.2
 numpy==2.5.4
+# Optional, to rebuild notebooks/phase4_results.ipynb: nbformat, nbclient, ipykernel.
 # Paper: any TeX distribution with acmart (built with MiKTeX pdflatex + bibtex via latexmk).

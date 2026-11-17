@@ -45,7 +45,7 @@ Citation fabrication is not solely a model-capability problem — it depends cri
 
 **Title:** Benchmarking Citation Fabrication Rates Across Large Language Models and Agentic Search Tools
 
-**Status:** Generated with Claude Sonnet 5; citation authenticity score: **97.5%** (verified on 10-reference sample audit)
+**Status:** First generated with Claude Sonnet 5 (Lab 1, 2026-08-21), then revised as the Lab 06 review. The files in `paper/` and `references/` are the final Lab 06 version (2026-11-06). Lab 1 citation authenticity score: **95.0%** on a 10-reference sample (see the audit below).
 
 **Key Contributions:**
 - Synthesizes benchmarking studies from 2023–2026 across biomedicine, law, computer science, and general search
@@ -54,22 +54,22 @@ Citation fabrication is not solely a model-capability problem — it depends cri
 - Reviews detection methods (self-verification, retrieval grounding, reference-specific pipelines)
 - Identifies methodological gaps and proposes directions for standardized benchmarking
 
-**26 References:** All verified against Crossref, arXiv, PubMed, Google Scholar, and publisher websites.
+**26 references.** In Lab 1, a systematic sample of 10 was checked by hand against scholarly sources (see below). The other 16 were not individually audited in Lab 1. The bibliography was revised during Lab 06, including corrected author names.
 
 ---
 
 ## Citation Integrity Audit
 
-**Document:** Lab1_Citation_Integrity_Audit.pdf (included in `/citation-audit/`)
+**Worksheet:** not included in this repository, because it contains a signed student declaration. The figures below come from it.
 
 **Methodology:** Systematic sampling of 10 references (first 3, last 3, evenly distributed 4 middle) from 26 total; blinded plausibility assessment before verification; multi-database verification.
 
 **Results:**
 - **Total Audited:** 10 references
-- **Verified (Code A):** 8 (80%)
-- **Wrong Metadata (Code B):** 2 (20%)
+- **Verified (Code A):** 8 (80%), as recorded in the worksheet's score summary
+- **Wrong Metadata (Code B):** 2 (20%), as recorded in the worksheet's score summary (its per-reference table marks only R8 as B and leaves R10 unclassified)
 - **Frankenstein/Fabricated/Mismatch (C/D/E):** 0
-- **Authenticity Score:** 97.5% (range: 90–100 = excellent)
+- **Authenticity Score:** 95.0% (range: 90–100 = excellent). The lab formula gives (4·8 + 3·2) / 40 = 38/40. The worksheet recorded 97.5% because of an arithmetic slip (39 points instead of 38)
 - **Prediction Accuracy:** 80%
 
 **Verification Sources:**
@@ -249,9 +249,10 @@ Linked papers retain their original licenses; please respect publisher and autho
 ## Acknowledgments
 
 - **Research Paper Generated:** Claude Sonnet 5 (2026-08-21)
-- **Citation Audit:** Systematic lab methodology; 97.5% authenticity score
+- **Citation Audit:** Systematic lab methodology; 95.0% authenticity score on a 10-reference sample
+- **Lab 07 experiment:** Error-type audit of simple citation checkers (2026-11-17), built with Claude Code (Claude Opus 5.5); AI use disclosed in `lab07-citation-checker-audit/ai_audit.md`
 - **Topic:** T21 — Benchmarking Citation Fabrication Rates Across LLMs and Agentic Search Tools
 - **Course:** AI Tools for Research (2026)
 
-**Repository Status:** Public, verified research curation  
-**Last Updated:** 2026-09-29
+**Repository Status:** Public research curation. Each section states what was verified and how.  
+**Last Updated:** 2026-11-17

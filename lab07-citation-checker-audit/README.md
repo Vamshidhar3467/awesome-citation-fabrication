@@ -39,6 +39,7 @@ Individual steps, all offline against the cached Crossref facts:
 | Development check on pilot | `python scripts/evaluate.py --pilot-only` | `results/phase4/pilot_*` |
 | Held-out evaluation | `python scripts/evaluate.py` | `results/phase4/*.csv/json` |
 | Figures | `python scripts/make_figures.py` | `paper/figures/*.pdf/png` |
+| Results notebook | `python scripts/make_phase4_notebook.py` (needs `nbformat`, `nbclient`, `ipykernel`) | `notebooks/phase4_results.ipynb` |
 | Paper | `cd paper; latexmk -pdf main.tex` | `paper/main.pdf` (built with MiKTeX `pdflatex`/`bibtex`) |
 
 **Online steps (not needed to reproduce; already run once).** `python scripts/run.py acquire` and `python scripts/acquire_ext.py` without `--offline` query the Crossref REST API. Don't rerun `acquire_ext.py` online with the snapshot deleted: Crossref's `sample` endpoint is random, so a new run draws a *different* 40 works, and the frozen hashes, and every number in the paper, would no longer apply. **[TEST REQUIRED]** A fresh online acquisition on another machine hasn't been tried. Crossref records can change over time, and the cache records retrieval timestamps for that reason.
@@ -48,13 +49,14 @@ Individual steps, all offline against the cached Crossref facts:
 | Path | What it is |
 |---|---|
 | `src/citationlab.py` | Lookup and cache, case construction, legitimate-variant builder, the three checkers, metrics |
-| `scripts/` | `run.py` (Phase III), `acquire_ext.py` (amendment A1 data), `evaluate.py` (all Phase IV results), `make_figures.py`, `verify.py`, `make_walkthrough.py` (notebook) |
+| `scripts/` | `run.py` (Phase III), `acquire_ext.py` (amendment A1 data), `evaluate.py` (all Phase IV results), `make_figures.py`, `verify.py`, `make_walkthrough.py` and `make_phase4_notebook.py` (notebooks) |
 | `tests/` | `test_baseline.py` (10 Phase III tests) and `test_phase4.py` (7 tests for B3, ablation, stress cases, macro recall) |
 | `configs/protocol.json` | Frozen v1.0 settings (seed, thresholds, DOI list). Never edited after freezing |
 | `data/` | Crossref fact cache (`cache/`, one file per DOI, including real 404s), sources, case files, the random-sample snapshot and hash manifests. See [`data/README.md`](data/README.md) |
-| `results/` | Phase III logs and pilot outputs. `results/phase4/` holds every Phase IV prediction, metric, ablation, sensitivity and bootstrap file plus run logs |
+| `results/` | Phase III logs, pilot outputs and the original console captures (`results_*_console.txt`). `results/phase4/` holds every Phase IV prediction, metric, ablation, sensitivity and bootstrap file plus run logs |
 | `paper/` | Manuscript, bibliography, figures, and the pre-review draft PDF for comparison |
-| `notebooks/phase3_baseline.ipynb` | Script-backed walkthrough of the Phase III baseline |
+| `notebooks/phase3_baseline.ipynb` | Phase III baseline walkthrough (captured script output) |
+| `notebooks/phase4_results.ipynb` | Phase IV results walkthrough, executed with a real kernel: every table, the field that fired for each false flag, one case end to end, and the figures |
 
 **Research record, in the order it happened:** [`research_decisions.md`](research_decisions.md) and [`gap_matrix.md`](gap_matrix.md) (Phases I–II), [`literature_to_experiment.md`](literature_to_experiment.md), [`novelty_feasibility.md`](novelty_feasibility.md), [`research_brief.md`](research_brief.md) (G1 brief), [`dataset_baseline_validation.md`](dataset_baseline_validation.md), [`experiment_protocol.md`](experiment_protocol.md), [`baseline_validation.md`](baseline_validation.md) (G2), [`code_understanding.md`](code_understanding.md), [`contribution_plan.md`](contribution_plan.md) (Prompt 12 and amendment A1), [`evaluation_report.md`](evaluation_report.md) (13), [`results_discussion.md`](results_discussion.md) (14), [`peer_review.md`](peer_review.md) (16), [`ai_audit.md`](ai_audit.md) and [`ai_assistance_log.md`](ai_assistance_log.md) (18), and [`demo_walkthrough.md`](demo_walkthrough.md) (five-minute demo).
 

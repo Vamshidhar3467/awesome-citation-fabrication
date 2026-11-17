@@ -1,5 +1,7 @@
 # G1 research brief — Prompt 05
 
+> **Note added 2026-11-17.** This is the brief as submitted for gate G1. The study was later extended under amendment A1 ([`contribution_plan.md`](contribution_plan.md)). RQ1–RQ3 were answered as written, and the extension adds a false-flag analysis on legitimate citation variants. Final results are in [`paper/main.pdf`](paper/main.pdf).
+
 **Student:** Bayyapu Vamshidhar Reddy, MRA2026010. **Review topic:** Benchmarking Citation Fabrication Rates Across Large Language Models and Agentic Search Tools. **Working study title:** Error-type audit of DOI-based citation verification.
 
 **Evidence and gap:** Lab06 §§5.3, 6.1 and 7 motivate validation of bibliography checking and explicit definitions. Original sources: [Russinovich et al.](https://arxiv.org/abs/2607.00738), [Walters & Wilder](https://doi.org/10.1038/s41598-023-41032-5), [Agrawal et al.](https://aclanthology.org/2024.findings-eacl.62/). Newly checked [CiteCheck](https://arxiv.org/abs/2605.27700) already uses controlled corruption, so general novelty is NOT claimed. The narrower course-level problem is explaining the limitations of simple, inspectable, no-LLM verification controls.

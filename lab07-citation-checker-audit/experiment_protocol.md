@@ -1,5 +1,7 @@
 # Frozen protocol v1.0 — Prompt 07 — 2026-10-30
 
+> **Amended 2026-11-17 (A1), before any held-out output existed.** The comparison below is unchanged and was run as written. A1 adds a random 40-work extension set, legitimate-variant stress cases, one rule variant (B3) and the deeper analyses. See [`contribution_plan.md`](contribution_plan.md). The text below is the original frozen version and hasn't been edited.
+
 Frozen before acquiring the constructed dataset or measuring pilot performance. Machine settings: `configs/protocol.json`. Scope: Phase III baseline validation; the full comparison remains Phase IV.
 
 ## Input, output and controls
