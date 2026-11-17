@@ -1,0 +1,7 @@
+split,method,labels,n,tp,fp,fn_incl_abstain,precision,recall,macro_recall,f1,fpr,coverage
+pilot,B1,any_error,32,4,0,16,1.0,0.2,0.2,0.3333333333333333,0.0,0.875
+pilot,B1,identity_only,32,4,0,8,1.0,0.3333333333333333,0.3333333333333333,0.5,0.0,0.875
+pilot,B2,any_error,32,20,0,0,1.0,1.0,1.0,1.0,0.0,0.875
+pilot,B2,identity_only,32,12,8,0,0.6,1.0,1.0,0.75,0.4,0.875
+pilot,B3,any_error,32,20,0,0,1.0,1.0,1.0,1.0,0.0,0.875
+pilot,B3,identity_only,32,12,8,0,0.6,1.0,1.0,0.75,0.4,0.875

@@ -1,0 +1,6 @@
+# Checkers, case construction and evaluation: Python 3.10+ standard library only.
+# Tested with Python 3.14.6 on Windows 11.
+# Figures only (scripts/make_figures.py); versions are those actually installed and used on 2026-11-17:
+matplotlib==3.11.2
+numpy==2.5.4
+# Paper: any TeX distribution with acmart (built with MiKTeX pdflatex + bibtex via latexmk).

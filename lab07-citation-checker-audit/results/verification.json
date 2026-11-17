@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "offline_repeat_identical": true,
+  "sha256": {
+    "data/cases.json": "b970a9b479b3d5a210158e6b2c94dd8020c56888ac4401704a2b77e5bf73c3a2",
+    "data/manifest.json": "55abdcf1c8d620990b2c0e0a8d44d95418e0a3d4530f05296ab91997c1c2c473",
+    "results/pilot_predictions.csv": "14be643e4a780b5a516b9a75267a92cf0928fe7953402ae199333177c556c35c",
+    "results/pilot_metrics.json": "c499c4deb560717703bc693afbdd54a356810980895a96cda7b430a41bd61a90",
+    "results/pilot_recall.svg": "74bd3fb7f5ca4d44c3c84587793eeb4ce62712fed96836a2863ccfc014bd1e73"
+  },
+  "phase4_regenerated_identical": true,
+  "phase4_sha256": {
+    "data/ext_cases.json": "8af15d538bda50771f74ee8986a60bc13fb4de1035053696741b6ae4342cacfa",
+    "data/ext_manifest.json": "ed730fc08e23d8bea2e70e0ecfd5f4e1e1a7e3d56cfd1f31c390faa88589ac19",
+    "results/phase4/predictions.csv": "e055512c72fe8d2515ce68e3ffddb715bc41f8a0b05a256059f61ff8101bac00",
+    "results/phase4/metrics.json": "90fca26e2e31b35f4c5a626b8951b66e2e58d064c3b5b707e3b91cfbda40e9b5",
+    "results/phase4/results.csv": "b05314bbdf5abba835f14a59b5a9bfc8cad9dc1f1dfe23a5012128b19933d72a",
+    "results/phase4/ablation.csv": "612801f94180a2ffefd9d98492d45bbd48b537ca24e273830fb96407cb119cbf",
+    "results/phase4/sensitivity.csv": "e01b29d2a999413f5a25fba0b5522b1f8990a3804c2a435077a08fd415d622b2",
+    "results/phase4/bootstrap.json": "6fc3565077859bc55fc428be46606c72b303662e4597c474612917ffcd645036"
+  },
+  "held_out_evaluated": true
+}

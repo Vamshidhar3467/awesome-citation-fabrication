@@ -1,0 +1,27 @@
+COMMAND: python -m unittest discover -s tests -v
+EXIT CODE: 0
+STDOUT:
+
+STDERR:
+test_clean_and_formatting (test_baseline.BaselineTests.test_clean_and_formatting) ... ok
+test_doi_normalization (test_baseline.BaselineTests.test_doi_normalization) ... ok
+test_duplicate_and_source_leakage_rejected (test_baseline.BaselineTests.test_duplicate_and_source_leakage_rejected) ... ok
+test_group_isolation_and_labels (test_baseline.BaselineTests.test_group_isolation_and_labels) ... ok
+test_metric_denominators (test_baseline.BaselineTests.test_metric_denominators) ... ok
+test_missing_doi_does_not_trigger_lookup (test_baseline.BaselineTests.test_missing_doi_does_not_trigger_lookup) ... ok
+test_no_crossref_record_is_a_flag (test_baseline.BaselineTests.test_no_crossref_record_is_a_flag) ... ok
+test_registered_doi_does_not_validate_authors (test_baseline.BaselineTests.test_registered_doi_does_not_validate_authors) ... ok
+test_transport_failure_is_not_a_fabrication (test_baseline.BaselineTests.test_transport_failure_is_not_a_fabrication) ... ok
+test_undefined_precision (test_baseline.BaselineTests.test_undefined_precision) ... ok
+test_b2_unchanged_on_clean_and_wrong_author (test_phase4.PhaseFourTests.test_b2_unchanged_on_clean_and_wrong_author) ... ok
+test_b3_accepts_et_al_but_rejects_foreign_author (test_phase4.PhaseFourTests.test_b3_accepts_et_al_but_rejects_foreign_author) ... ok
+test_ext_and_stress_share_sources_without_leakage_error (test_phase4.PhaseFourTests.test_ext_and_stress_share_sources_without_leakage_error) ... ok
+test_field_ablation_ignores_unselected_fields (test_phase4.PhaseFourTests.test_field_ablation_ignores_unselected_fields) ... ok
+test_macro_recall_is_mean_of_category_recalls (test_phase4.PhaseFourTests.test_macro_recall_is_mean_of_category_recalls) ... ok
+test_reason_lists_every_failed_field (test_phase4.PhaseFourTests.test_reason_lists_every_failed_field) ... ok
+test_stress_cases_are_valid_and_applicability_respected (test_phase4.PhaseFourTests.test_stress_cases_are_valid_and_applicability_respected) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 0.003s
+
+OK

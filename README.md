@@ -7,6 +7,7 @@ A curated collection of research papers, datasets, tools, implementations, and l
 - [Overview](#overview)
 - [AI-Assisted Research Paper](#ai-assisted-research-paper)
 - [Citation Integrity Audit](#citation-integrity-audit)
+- [Lab 07: Error-Type Audit of Citation Checkers](#lab-07-error-type-audit-of-citation-checkers)
 - [Survey and Review Papers](#survey-and-review-papers)
 - [Foundational Papers](#foundational-papers)
 - [Recent Research (2025–2026)](#recent-research-20252026)
@@ -74,6 +75,19 @@ Citation fabrication is not solely a model-capability problem — it depends cri
 **Verification Sources:**
 - arXiv, PubMed, JMIR, Oxford Academic, Wiley Online, Nature
 - DOI resolution and database cross-referencing
+
+---
+
+## Lab 07: Error-Type Audit of Citation Checkers
+
+**Folder:** [`lab07-citation-checker-audit/`](lab07-citation-checker-audit/) · **Paper:** [`What a Resolving DOI Doesn't Tell You`](lab07-citation-checker-audit/paper/main.pdf)
+
+A follow-up experiment to the review above. Three transparent checkers (DOI-only, field matching, and a field matcher with a containment author rule) are compared on citations built from Crossref records, including 40 randomly sampled journal articles.
+
+- A resolving DOI catches only non-existent DOIs (macro recall 0.20). Wrong years, authors, borrowed DOIs and spliced titles all pass.
+- Field matching catches every constructed error, but wrongly flags 54% of 87 legitimate citation variants ("et al.", abbreviated journals, dropped subtitles, print-year drift).
+- Changing only the author rule cuts false flags to 19.5% with no recall loss.
+- Fully reproducible offline: `python scripts/verify.py` regenerates every result byte-for-byte. AI assistance is disclosed in `ai_audit.md`.
 
 ---
 

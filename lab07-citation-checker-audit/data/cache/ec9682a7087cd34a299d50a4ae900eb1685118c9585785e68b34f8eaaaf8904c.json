@@ -1,0 +1,15 @@
+{
+  "doi": "10.18653/v1/2023.emnlp-main.398",
+  "found": true,
+  "title": "Enabling Large Language Models to Generate Text with Citations",
+  "authors": [
+    "Gao",
+    "Yen",
+    "Yu",
+    "Chen"
+  ],
+  "year": 2023,
+  "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+  "url": "https://api.crossref.org/works/10.18653%2Fv1%2F2023.emnlp-main.398",
+  "retrieved_utc": "2026-10-30T04:35:02.881888+00:00"
+}

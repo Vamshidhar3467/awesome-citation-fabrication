@@ -1,0 +1,21 @@
+{
+  "doi": "10.1145/3571730",
+  "found": true,
+  "title": "Survey of Hallucination in Natural Language Generation",
+  "authors": [
+    "Ji",
+    "Lee",
+    "Frieske",
+    "Yu",
+    "Su",
+    "Xu",
+    "Ishii",
+    "Bang",
+    "Madotto",
+    "Fung"
+  ],
+  "year": 2023,
+  "venue": "ACM Computing Surveys",
+  "url": "https://api.crossref.org/works/10.1145%2F3571730",
+  "retrieved_utc": "2026-10-30T04:35:00.754695+00:00"
+}

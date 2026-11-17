@@ -1,0 +1,6 @@
+COMMAND: python scripts/make_figures.py
+EXIT CODE: 0
+STDOUT:
+written: ['fig_ablation.pdf', 'fig_ablation.png', 'fig_detection_false_flags.pdf', 'fig_detection_false_flags.png', 'fig_sensitivity.pdf', 'fig_sensitivity.png']
+
+STDERR:

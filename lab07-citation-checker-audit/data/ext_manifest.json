@@ -1,0 +1,15 @@
+{
+  "amendment": "A1 (contribution_plan.md, 2026-11-17)",
+  "snapshot_sha256": "7eb0b029aa2492b99e54f246cbf814e2c3f0e67f7f1cc5f048025823fe59e49d",
+  "ext_cases_sha256": "8af15d538bda50771f74ee8986a60bc13fb4de1035053696741b6ae4342cacfa",
+  "sources": 40,
+  "error_cases": 320,
+  "stress_cases": 87,
+  "stress_by_category": {
+    "et_al_first_author": 30,
+    "print_year": 1,
+    "subtitle_dropped": 6,
+    "title_hyphen_break": 39,
+    "venue_abbrev": 11
+  }
+}

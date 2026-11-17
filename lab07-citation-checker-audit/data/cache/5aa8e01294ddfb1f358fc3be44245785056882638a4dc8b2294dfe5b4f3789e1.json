@@ -1,0 +1,15 @@
+{
+  "doi": "10.1145/3442188.3445922",
+  "found": true,
+  "title": "On the Dangers of Stochastic Parrots",
+  "authors": [
+    "Bender",
+    "Gebru",
+    "McMillan-Major",
+    "Shmitchell"
+  ],
+  "year": 2021,
+  "venue": "Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency",
+  "url": "https://api.crossref.org/works/10.1145%2F3442188.3445922",
+  "retrieved_utc": "2026-10-30T04:34:57.695636+00:00"
+}

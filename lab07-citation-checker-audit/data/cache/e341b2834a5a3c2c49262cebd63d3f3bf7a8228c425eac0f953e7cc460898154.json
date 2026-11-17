@@ -1,0 +1,20 @@
+{
+  "doi": "10.18653/v1/2023.emnlp-main.741",
+  "found": true,
+  "title": "FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation",
+  "authors": [
+    "Min",
+    "Krishna",
+    "Lyu",
+    "Lewis",
+    "Yih",
+    "Koh",
+    "Iyyer",
+    "Zettlemoyer",
+    "Hajishirzi"
+  ],
+  "year": 2023,
+  "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+  "url": "https://api.crossref.org/works/10.18653%2Fv1%2F2023.emnlp-main.741",
+  "retrieved_utc": "2026-10-30T04:35:05.331984+00:00"
+}

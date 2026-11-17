@@ -1,0 +1,22 @@
+COMMAND: python scripts/evaluate.py
+EXIT CODE: 0
+STDOUT:
+split,method,labels,n,tp,fp,fn_incl_abstain,precision,recall,macro_recall,f1,fpr,coverage
+test,B1,any_error,64,8,0,32,1.0,0.2,0.2,0.3333333333333333,0.0,0.875
+test,B1,identity_only,64,8,0,16,1.0,0.3333333333333333,0.3333333333333333,0.5,0.0,0.875
+test,B2,any_error,64,40,0,0,1.0,1.0,1.0,1.0,0.0,0.875
+test,B2,identity_only,64,24,16,0,0.6,1.0,1.0,0.75,0.4,0.875
+test,B3,any_error,64,40,0,0,1.0,1.0,1.0,1.0,0.0,0.875
+test,B3,identity_only,64,24,16,0,0.6,1.0,1.0,0.75,0.4,0.875
+ext,B1,any_error,320,40,0,160,1.0,0.2,0.2,0.3333333333333333,0.0,0.875
+ext,B1,identity_only,320,40,0,80,1.0,0.3333333333333333,0.3333333333333333,0.5,0.0,0.875
+ext,B2,any_error,320,200,0,0,1.0,1.0,1.0,1.0,0.0,0.875
+ext,B2,identity_only,320,120,80,0,0.6,1.0,1.0,0.75,0.4,0.875
+ext,B3,any_error,320,200,0,0,1.0,1.0,1.0,1.0,0.0,0.875
+ext,B3,identity_only,320,120,80,0,0.6,1.0,1.0,0.75,0.4,0.875
+ext_stress,B1,valid_only,87,0,0,0,,,,,0.0,
+ext_stress,B2,valid_only,87,0,47,0,,,,,0.5402298850574713,
+ext_stress,B3,valid_only,87,0,17,0,,,,,0.19540229885057472,
+
+
+STDERR:

@@ -1,0 +1,14 @@
+{
+  "doi": "10.18653/v1/2023.emnlp-main.557",
+  "found": true,
+  "title": "SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models",
+  "authors": [
+    "Manakul",
+    "Liusie",
+    "Gales"
+  ],
+  "year": 2023,
+  "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+  "url": "https://api.crossref.org/works/10.18653%2Fv1%2F2023.emnlp-main.557",
+  "retrieved_utc": "2026-10-30T04:35:07.496672+00:00"
+}

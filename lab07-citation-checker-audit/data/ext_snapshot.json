@@ -1,0 +1,612 @@
+{
+  "query": "https://api.crossref.org/works?sample=100&filter=type:journal-article",
+  "retrieved_utc": "2026-11-17T09:36:40.529816+00:00",
+  "returned": 100,
+  "eligible": 91,
+  "selected": [
+    {
+      "doi": "10.1002/mar.4220060405",
+      "title": "Viewers' processing of Actor's race and message claims in advertising stimuli",
+      "authors": [
+        "Whittler"
+      ],
+      "year_published": 1989,
+      "print_year": 1989,
+      "online_year": 2006,
+      "venue": "Psychology &amp; Marketing",
+      "short_venue": "Psychology and Marketing"
+    },
+    {
+      "doi": "10.1002/marc.202300121",
+      "title": "Monodisperse Hyperbranched Polytriazoles as Unimolecular Nanocontainers for Encapsulation of Functional Payloads",
+      "authors": [
+        "Ma",
+        "Jin",
+        "Gao"
+      ],
+      "year_published": 2023,
+      "print_year": 2023,
+      "online_year": 2023,
+      "venue": "Macromolecular Rapid Communications",
+      "short_venue": "Macromol. Rapid Commun."
+    },
+    {
+      "doi": "10.1002/nop2.1567",
+      "title": "Predictors of mortality and ICU requirement in hospitalized COVID‐19 patients with diabetes: A multicentre study",
+      "authors": [
+        "Asaduzzaman",
+        "Romel Bhuia",
+        "Zabed Jillul Bari",
+        "Nazmul Alam",
+        "Rahman",
+        "Hossain",
+        "Alam"
+      ],
+      "year_published": 2022,
+      "print_year": 2023,
+      "online_year": 2022,
+      "venue": "Nursing Open",
+      "short_venue": "Nursing Open"
+    },
+    {
+      "doi": "10.1002/pros.24610",
+      "title": "Is prostatic adenocarcinoma with cribriform architecture more difficult to detect on prostate MRI?",
+      "authors": [
+        "Belue",
+        "Blake",
+        "Yilmaz",
+        "Lin",
+        "Harmon",
+        "Nemirovsky",
+        "Enders",
+        "Kenigsberg",
+        "Mendhiratta",
+        "Rothberg",
+        "Toubaji",
+        "Merino",
+        "Gurram",
+        "Wood",
+        "Choyke",
+        "Turkbey",
+        "Pinto"
+      ],
+      "year_published": 2023,
+      "print_year": 2023,
+      "online_year": 2023,
+      "venue": "The Prostate",
+      "short_venue": "The Prostate"
+    },
+    {
+      "doi": "10.1006/jfls.2000.0364",
+      "title": "GALLOPING RESPONSE OF A CYLINDER WITH UPSTREAM WAKE INTERFERENCE",
+      "authors": [
+        "HOVER",
+        "TRIANTAFYLLOU"
+      ],
+      "year_published": 2001,
+      "print_year": 2001,
+      "online_year": null,
+      "venue": "Journal of Fluids and Structures",
+      "short_venue": "Journal of Fluids and Structures"
+    },
+    {
+      "doi": "10.1007/bf01332787",
+      "title": "�ber Faserstruktur bei Metallen",
+      "authors": [
+        "Ettisch",
+        "Polanyi",
+        "Weissenberg"
+      ],
+      "year_published": 1921,
+      "print_year": 1921,
+      "online_year": null,
+      "venue": "Zeitschrift f�r Physik",
+      "short_venue": "Z. Physik"
+    },
+    {
+      "doi": "10.1007/s00128-012-0662-3",
+      "title": "Quantitative Structure–Activity Relationship for Prediction of the Toxicity of Phenols on Photobacterium phosphoreum",
+      "authors": [
+        "Li",
+        "Wang",
+        "Liu",
+        "Yu"
+      ],
+      "year_published": 2012,
+      "print_year": 2012,
+      "online_year": 2012,
+      "venue": "Bulletin of Environmental Contamination and Toxicology",
+      "short_venue": "Bull Environ Contam Toxicol"
+    },
+    {
+      "doi": "10.1007/s002640000147",
+      "title": "Proliferating cell nuclear antigen labelling index in localised pigmented villo-nodular synovitis and its relationship to the size of nodules",
+      "authors": [
+        "Rosa",
+        "Galli",
+        "Fadda",
+        "Maggiano",
+        "Gambino"
+      ],
+      "year_published": 2000,
+      "print_year": 2000,
+      "online_year": null,
+      "venue": "International Orthopaedics",
+      "short_venue": "International Orthopaedics"
+    },
+    {
+      "doi": "10.1007/s10934-021-01076-2",
+      "title": "CTAB-caped Cu nanoparticles doped on zeolitic imidazolate framework-ZIF-67 as bifunctional catalysts for oxygen-reduction and evolution reactions in alkaline media",
+      "authors": [
+        "Parkash"
+      ],
+      "year_published": 2021,
+      "print_year": 2021,
+      "online_year": 2021,
+      "venue": "Journal of Porous Materials",
+      "short_venue": "J Porous Mater"
+    },
+    {
+      "doi": "10.1007/s11238-005-4594-9",
+      "title": "Countable Additivity and the Foundations of Bayesian Statistics",
+      "authors": [
+        "Howard"
+      ],
+      "year_published": 2006,
+      "print_year": 2006,
+      "online_year": null,
+      "venue": "Theory and Decision",
+      "short_venue": "Theor Decis"
+    },
+    {
+      "doi": "10.1007/s11548-013-0835-5",
+      "title": "Hybrid electromagnetic and image-based tracking of endoscopes with guaranteed smooth output",
+      "authors": [
+        "Reichl",
+        "Luo",
+        "Menzel",
+        "Hautmann",
+        "Mori",
+        "Navab"
+      ],
+      "year_published": 2013,
+      "print_year": 2013,
+      "online_year": 2013,
+      "venue": "International Journal of Computer Assisted Radiology and Surgery",
+      "short_venue": "Int J CARS"
+    },
+    {
+      "doi": "10.1007/s11829-016-9444-x",
+      "title": "Feedback effects between plant and flower-visiting insect communities along a primary succession gradient",
+      "authors": [
+        "Losapio",
+        "Gobbi",
+        "Marano",
+        "Avesani",
+        "Boracchi",
+        "Compostella",
+        "Pavesi",
+        "Schöb",
+        "Seppi",
+        "Sommaggio",
+        "Zanetti",
+        "Caccianiga"
+      ],
+      "year_published": 2016,
+      "print_year": 2016,
+      "online_year": 2016,
+      "venue": "Arthropod-Plant Interactions",
+      "short_venue": "Arthropod-Plant Interactions"
+    },
+    {
+      "doi": "10.1016/0009-8981(72)90227-6",
+      "title": "Reproducibility of plasma growth hormone determinations between different laboratories",
+      "authors": [
+        "Copinschi",
+        "Wolter",
+        "Brauman"
+      ],
+      "year_published": 1972,
+      "print_year": 1972,
+      "online_year": null,
+      "venue": "Clinica Chimica Acta",
+      "short_venue": "Clinica Chimica Acta"
+    },
+    {
+      "doi": "10.1016/0013-4686(91)85073-g",
+      "title": "An investigation into the cathodic delamination of epoxy-polyamine protective coatings",
+      "authors": [
+        "Armstrong",
+        "Johnson",
+        "Wright"
+      ],
+      "year_published": 1991,
+      "print_year": 1991,
+      "online_year": null,
+      "venue": "Electrochimica Acta",
+      "short_venue": "Electrochimica Acta"
+    },
+    {
+      "doi": "10.1016/0278-4343(89)90004-6",
+      "title": "Circulation and mixing in a coastal upwelling embayment; Gulf of Arauco, Chile",
+      "authors": [
+        "Djurfeldt"
+      ],
+      "year_published": 1989,
+      "print_year": 1989,
+      "online_year": null,
+      "venue": "Continental Shelf Research",
+      "short_venue": "Continental Shelf Research"
+    },
+    {
+      "doi": "10.1016/0301-9322(88)90073-0",
+      "title": "Laser-doppler measurement of the velocity and diameter of bubbles using the triple-peak technique",
+      "authors": [
+        "Yu",
+        "Varty"
+      ],
+      "year_published": 1988,
+      "print_year": 1988,
+      "online_year": null,
+      "venue": "International Journal of Multiphase Flow",
+      "short_venue": "International Journal of Multiphase Flow"
+    },
+    {
+      "doi": "10.1016/0370-2693(90)91930-a",
+      "title": "Free field realizations of WZNW models. The BRST complex and its quantum group structure",
+      "authors": [
+        "Bouwknegt",
+        "McCarthy",
+        "Pilch"
+      ],
+      "year_published": 1990,
+      "print_year": 1990,
+      "online_year": null,
+      "venue": "Physics Letters B",
+      "short_venue": "Physics Letters B"
+    },
+    {
+      "doi": "10.1016/j.bbalip.2011.05.003",
+      "title": "Maternal–fetal transfer and metabolism of vitamin A and its precursor β-carotene in the developing tissues",
+      "authors": [
+        "Spiegler",
+        "Kim",
+        "Wassef",
+        "Shete",
+        "Quadro"
+      ],
+      "year_published": 2012,
+      "print_year": 2012,
+      "online_year": null,
+      "venue": "Biochimica et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids",
+      "short_venue": "Biochimica et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids"
+    },
+    {
+      "doi": "10.1016/j.fas.2019.10.008",
+      "title": "Letter to the Editor on “Treatment of lateral ankle sprain with platelet-rich plasma: A randomized clinical study”",
+      "authors": [
+        "Dahmen",
+        "Paget",
+        "Reurink",
+        "Tol",
+        "Kerkhoffs"
+      ],
+      "year_published": 2019,
+      "print_year": 2019,
+      "online_year": null,
+      "venue": "Foot and Ankle Surgery",
+      "short_venue": "Foot and Ankle Surgery"
+    },
+    {
+      "doi": "10.1016/j.genhosppsych.2025.10.013",
+      "title": "Cognitive function among stable schizophrenia patients receiving an mHealth app-based cognitive remediation therapy: randomized controlled trial with mediation analysis",
+      "authors": [
+        "Wen",
+        "Liu",
+        "He",
+        "Xu",
+        "Zhou",
+        "Liu",
+        "Zhu"
+      ],
+      "year_published": 2025,
+      "print_year": 2025,
+      "online_year": null,
+      "venue": "General Hospital Psychiatry",
+      "short_venue": "General Hospital Psychiatry"
+    },
+    {
+      "doi": "10.1016/j.jallcom.2015.01.094",
+      "title": "Effects of adding Al–Si eutectic alloy and hot rolling on microstructures and mechanical behavior of Mg–8Li alloys",
+      "authors": [
+        "Shi",
+        "Bian",
+        "Liang",
+        "Chen",
+        "Yang",
+        "Wang"
+      ],
+      "year_published": 2015,
+      "print_year": 2015,
+      "online_year": null,
+      "venue": "Journal of Alloys and Compounds",
+      "short_venue": "Journal of Alloys and Compounds"
+    },
+    {
+      "doi": "10.1016/j.jpowsour.2014.04.051",
+      "title": "Preparation and electrochemical performance of La3+ and F− co-doped Li4Ti5O12 anode material for lithium-ion batteries",
+      "authors": [
+        "Ji",
+        "Xu",
+        "Zhao",
+        "Zhang",
+        "Liu",
+        "Zhao",
+        "Qian",
+        "Zhao"
+      ],
+      "year_published": 2014,
+      "print_year": 2014,
+      "online_year": null,
+      "venue": "Journal of Power Sources",
+      "short_venue": "Journal of Power Sources"
+    },
+    {
+      "doi": "10.1016/j.mtcomm.2025.114530",
+      "title": "First-principles study of Si doping effects on enhancing Al/Al₄C₃ interfacial bonding and suppressing Al₄C₃ growth",
+      "authors": [
+        "Yang",
+        "Zhao",
+        "Kang",
+        "Tan",
+        "Huang",
+        "Zhu",
+        "Zheng",
+        "Zhang"
+      ],
+      "year_published": 2026,
+      "print_year": 2026,
+      "online_year": null,
+      "venue": "Materials Today Communications",
+      "short_venue": "Materials Today Communications"
+    },
+    {
+      "doi": "10.1016/j.physa.2019.123079",
+      "title": "Taking preventive measures against infections with a cost in static and dynamic single-group populations",
+      "authors": [
+        "Xu",
+        "Hui"
+      ],
+      "year_published": 2020,
+      "print_year": 2020,
+      "online_year": null,
+      "venue": "Physica A: Statistical Mechanics and its Applications",
+      "short_venue": "Physica A: Statistical Mechanics and its Applications"
+    },
+    {
+      "doi": "10.1016/j.toxlet.2019.08.015",
+      "title": "Adverse impact of ambient PM2.5 on expression and trafficking of surfactant protein A through reactive oxygen species damage to lamellar bodies",
+      "authors": [
+        "Peng",
+        "Zhang",
+        "Meng",
+        "Zhang",
+        "Mao",
+        "Liu",
+        "Chen",
+        "Zou",
+        "Shi",
+        "Wu",
+        "Huang",
+        "Huang",
+        "Tan",
+        "Feng",
+        "Zhang"
+      ],
+      "year_published": 2019,
+      "print_year": 2019,
+      "online_year": null,
+      "venue": "Toxicology Letters",
+      "short_venue": "Toxicology Letters"
+    },
+    {
+      "doi": "10.1016/s0090-4295(74)80128-7",
+      "title": "Antibodies to epithelium in benign prostatic hypertrophy and carcinoma of prostate",
+      "authors": [
+        "Ablin",
+        "Guinan",
+        "Bush"
+      ],
+      "year_published": 1974,
+      "print_year": 1974,
+      "online_year": null,
+      "venue": "Urology",
+      "short_venue": "Urology"
+    },
+    {
+      "doi": "10.1016/s0379-6779(00)01314-x",
+      "title": "Novel helical conjugated polymers: synthesis and optical properties of polyarylenemethine derivatives bearing chiroptical substituents",
+      "authors": [
+        "Goto",
+        "Akagi"
+      ],
+      "year_published": 2001,
+      "print_year": 2001,
+      "online_year": null,
+      "venue": "Synthetic Metals",
+      "short_venue": "Synthetic Metals"
+    },
+    {
+      "doi": "10.1016/s0735-1097(23)01666-2",
+      "title": "OUTCOMES OF CORONARY ARTERY PERFORATION IN CHRONIC TOTAL OCCLUSION INTERVENTION- A SYSTEMATIC REVIEW AND META-ANALYSIS",
+      "authors": [
+        "Mai",
+        "Hong",
+        "Tomcho",
+        "Sweet"
+      ],
+      "year_published": 2023,
+      "print_year": 2023,
+      "online_year": null,
+      "venue": "Journal of the American College of Cardiology",
+      "short_venue": "Journal of the American College of Cardiology"
+    },
+    {
+      "doi": "10.1016/s1058-2746(99)90059-9",
+      "title": "Use of botulinum A toxin in irreducible shoulder dislocation caused by spasm of pectoralis major",
+      "authors": [
+        "Sinha",
+        "Higginson",
+        "Vickers"
+      ],
+      "year_published": 1999,
+      "print_year": 1999,
+      "online_year": null,
+      "venue": "Journal of Shoulder and Elbow Surgery",
+      "short_venue": "Journal of Shoulder and Elbow Surgery"
+    },
+    {
+      "doi": "10.1017/s0140525x08003750",
+      "title": "Analogical apes and paleological monkeys revisited",
+      "authors": [
+        "Thompson",
+        "Flemming"
+      ],
+      "year_published": 2008,
+      "print_year": 2008,
+      "online_year": 2008,
+      "venue": "Behavioral and Brain Sciences",
+      "short_venue": "Behav Brain Sci"
+    },
+    {
+      "doi": "10.1039/d2py00615d",
+      "title": "Synthesis and self-assembly of cytidine- and guanosine-based copolymers",
+      "authors": [
+        "Chea",
+        "Schade",
+        "Reinicke",
+        "Bleul",
+        "Rosencrantz"
+      ],
+      "year_published": 2022,
+      "print_year": null,
+      "online_year": 2022,
+      "venue": "Polymer Chemistry",
+      "short_venue": "Polym. Chem."
+    },
+    {
+      "doi": "10.1055/s-0028-1106431",
+      "title": "Digestiv-resorptive Funktion der Dünndarmschleimhaut<sup>*</sup>",
+      "authors": [
+        "Caspary"
+      ],
+      "year_published": 1975,
+      "print_year": 1975,
+      "online_year": 2009,
+      "venue": "DMW - Deutsche Medizinische Wochenschrift",
+      "short_venue": "Dtsch med Wochenschr"
+    },
+    {
+      "doi": "10.1061/jmcea3.0000025",
+      "title": "Inelastic Response of Columns to Dynamic Loadings",
+      "authors": [
+        "Hartz",
+        "Clough"
+      ],
+      "year_published": 1957,
+      "print_year": 1957,
+      "online_year": null,
+      "venue": "Journal of the Engineering Mechanics Division",
+      "short_venue": "J. Engrg. Mech. Div."
+    },
+    {
+      "doi": "10.1063/1.4892666",
+      "title": "Cell-matrix adhesion characterization using multiple shear stress zones in single stepwise microchannel",
+      "authors": [
+        "Kim",
+        "Doh",
+        "Bae",
+        "Cha",
+        "Cho"
+      ],
+      "year_published": 2014,
+      "print_year": 2014,
+      "online_year": 2014,
+      "venue": "Applied Physics Letters",
+      "short_venue": ""
+    },
+    {
+      "doi": "10.1080/00107514.2020.1736175",
+      "title": "Lectures on astrophysics",
+      "authors": [
+        "Shore"
+      ],
+      "year_published": 2020,
+      "print_year": 2020,
+      "online_year": 2020,
+      "venue": "Contemporary Physics",
+      "short_venue": "Contemporary Physics"
+    },
+    {
+      "doi": "10.1080/00131724509340474",
+      "title": "The Gardner of Sid: A Pessimistic Parable for Progressives",
+      "authors": [
+        "Clopton"
+      ],
+      "year_published": 1945,
+      "print_year": 1945,
+      "online_year": null,
+      "venue": "The Educational Forum",
+      "short_venue": "The Educational Forum"
+    },
+    {
+      "doi": "10.1080/00144940.1967.11482725",
+      "title": "27. Donne’s Holy Sonnets, XIV",
+      "authors": [
+        "Schwartz"
+      ],
+      "year_published": 1967,
+      "print_year": 1967,
+      "online_year": 2015,
+      "venue": "The Explicator",
+      "short_venue": "The Explicator"
+    },
+    {
+      "doi": "10.1080/00221325.1986.9914517",
+      "title": "Security of Attachment in Infants with Schizophrenic, Depressed, and Unaffected Mothers",
+      "authors": [
+        "D'angelo"
+      ],
+      "year_published": 1986,
+      "print_year": 1986,
+      "online_year": null,
+      "venue": "The Journal of Genetic Psychology",
+      "short_venue": "The Journal of Genetic Psychology"
+    },
+    {
+      "doi": "10.1080/00377317.2020.1834489",
+      "title": "Surviving Being Black and a Clinician During a Dual Pandemic:Personal and Professional Challenges in a Disease and Racial Crisis",
+      "authors": [
+        "Lipscomb",
+        "Ashley"
+      ],
+      "year_published": 2020,
+      "print_year": 2020,
+      "online_year": 2020,
+      "venue": "Smith College Studies in Social Work",
+      "short_venue": "Smith College Studies in Social Work"
+    },
+    {
+      "doi": "10.1080/00385417.1962.10769926",
+      "title": "Basic Methodological Problems in Ethnic Mapping",
+      "authors": [
+        "Bruk"
+      ],
+      "year_published": 1962,
+      "print_year": 1962,
+      "online_year": 2014,
+      "venue": "Soviet Geography",
+      "short_venue": "Soviet Geography"
+    }
+  ]
+}

@@ -1,0 +1,2450 @@
+[
+  {
+    "id": "pilot-000-clean",
+    "source_id": "10.18653/v1/2024.findings-eacl.62",
+    "donor_id": "",
+    "split": "pilot",
+    "category": "clean",
+    "citation": {
+      "doi": "10.18653/v1/2024.findings-eacl.62",
+      "title": "Do Language Models Know When They’re Hallucinating References?",
+      "authors": [
+        "Agrawal",
+        "Suzgun",
+        "Mackey",
+        "Kalai"
+      ],
+      "year": 2024,
+      "venue": "Findings of the Association for Computational Linguistics: EACL 2024"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "pilot-000-format_variant",
+    "source_id": "10.18653/v1/2024.findings-eacl.62",
+    "donor_id": "",
+    "split": "pilot",
+    "category": "format_variant",
+    "citation": {
+      "doi": "https://doi.org/10.18653/V1/2024.FINDINGS-EACL.62",
+      "title": "DO LANGUAGE MODELS KNOW WHEN THEY’RE HALLUCINATING REFERENCES?",
+      "authors": [
+        "Agrawal",
+        "Suzgun",
+        "Mackey",
+        "Kalai"
+      ],
+      "year": 2024,
+      "venue": "Findings of the Association for Computational Linguistics: EACL 2024"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "pilot-000-missing_doi",
+    "source_id": "10.18653/v1/2024.findings-eacl.62",
+    "donor_id": "",
+    "split": "pilot",
+    "category": "missing_doi",
+    "citation": {
+      "doi": "",
+      "title": "Do Language Models Know When They’re Hallucinating References?",
+      "authors": [
+        "Agrawal",
+        "Suzgun",
+        "Mackey",
+        "Kalai"
+      ],
+      "year": 2024,
+      "venue": "Findings of the Association for Computational Linguistics: EACL 2024"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "pilot-000-wrong_year",
+    "source_id": "10.18653/v1/2024.findings-eacl.62",
+    "donor_id": "",
+    "split": "pilot",
+    "category": "wrong_year",
+    "citation": {
+      "doi": "10.18653/v1/2024.findings-eacl.62",
+      "title": "Do Language Models Know When They’re Hallucinating References?",
+      "authors": [
+        "Agrawal",
+        "Suzgun",
+        "Mackey",
+        "Kalai"
+      ],
+      "year": 2031,
+      "venue": "Findings of the Association for Computational Linguistics: EACL 2024"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "pilot-000-wrong_author",
+    "source_id": "10.18653/v1/2024.findings-eacl.62",
+    "donor_id": "",
+    "split": "pilot",
+    "category": "wrong_author",
+    "citation": {
+      "doi": "10.18653/v1/2024.findings-eacl.62",
+      "title": "Do Language Models Know When They’re Hallucinating References?",
+      "authors": [
+        "SyntheticWrongAuthor"
+      ],
+      "year": 2024,
+      "venue": "Findings of the Association for Computational Linguistics: EACL 2024"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "pilot-000-wrong_doi",
+    "source_id": "10.18653/v1/2024.findings-eacl.62",
+    "donor_id": "10.7759/cureus.39238",
+    "split": "pilot",
+    "category": "wrong_doi",
+    "citation": {
+      "doi": "10.7759/cureus.39238",
+      "title": "Do Language Models Know When They’re Hallucinating References?",
+      "authors": [
+        "Agrawal",
+        "Suzgun",
+        "Mackey",
+        "Kalai"
+      ],
+      "year": 2024,
+      "venue": "Findings of the Association for Computational Linguistics: EACL 2024"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "pilot-000-frankenstein",
+    "source_id": "10.18653/v1/2024.findings-eacl.62",
+    "donor_id": "10.7759/cureus.39238",
+    "split": "pilot",
+    "category": "frankenstein",
+    "citation": {
+      "doi": "10.18653/v1/2024.findings-eacl.62",
+      "title": "High Rates of Fabricated and Inaccurate References in ChatGPT-Generated Medical Content",
+      "authors": [
+        "Agrawal",
+        "Suzgun",
+        "Mackey",
+        "Kalai"
+      ],
+      "year": 2024,
+      "venue": "Findings of the Association for Computational Linguistics: EACL 2024"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "pilot-000-synthetic_unmatched",
+    "source_id": "10.18653/v1/2024.findings-eacl.62",
+    "donor_id": "",
+    "split": "pilot",
+    "category": "synthetic_unmatched",
+    "citation": {
+      "doi": "10.0000/lab07-251e41942fc63a6d",
+      "title": "Synthetic Lab07 nonexistent test item 0",
+      "authors": [
+        "SyntheticWrongAuthor"
+      ],
+      "year": 2024,
+      "venue": "Findings of the Association for Computational Linguistics: EACL 2024"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "pilot-001-clean",
+    "source_id": "10.7759/cureus.39238",
+    "donor_id": "",
+    "split": "pilot",
+    "category": "clean",
+    "citation": {
+      "doi": "10.7759/cureus.39238",
+      "title": "High Rates of Fabricated and Inaccurate References in ChatGPT-Generated Medical Content",
+      "authors": [
+        "Bhattacharyya",
+        "Miller",
+        "Bhattacharyya",
+        "Miller"
+      ],
+      "year": 2023,
+      "venue": "Cureus"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "pilot-001-format_variant",
+    "source_id": "10.7759/cureus.39238",
+    "donor_id": "",
+    "split": "pilot",
+    "category": "format_variant",
+    "citation": {
+      "doi": "https://doi.org/10.7759/CUREUS.39238",
+      "title": "HIGH RATES OF FABRICATED AND INACCURATE REFERENCES IN CHATGPT-GENERATED MEDICAL CONTENT",
+      "authors": [
+        "Bhattacharyya",
+        "Miller",
+        "Bhattacharyya",
+        "Miller"
+      ],
+      "year": 2023,
+      "venue": "Cureus"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "pilot-001-missing_doi",
+    "source_id": "10.7759/cureus.39238",
+    "donor_id": "",
+    "split": "pilot",
+    "category": "missing_doi",
+    "citation": {
+      "doi": "",
+      "title": "High Rates of Fabricated and Inaccurate References in ChatGPT-Generated Medical Content",
+      "authors": [
+        "Bhattacharyya",
+        "Miller",
+        "Bhattacharyya",
+        "Miller"
+      ],
+      "year": 2023,
+      "venue": "Cureus"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "pilot-001-wrong_year",
+    "source_id": "10.7759/cureus.39238",
+    "donor_id": "",
+    "split": "pilot",
+    "category": "wrong_year",
+    "citation": {
+      "doi": "10.7759/cureus.39238",
+      "title": "High Rates of Fabricated and Inaccurate References in ChatGPT-Generated Medical Content",
+      "authors": [
+        "Bhattacharyya",
+        "Miller",
+        "Bhattacharyya",
+        "Miller"
+      ],
+      "year": 2030,
+      "venue": "Cureus"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "pilot-001-wrong_author",
+    "source_id": "10.7759/cureus.39238",
+    "donor_id": "",
+    "split": "pilot",
+    "category": "wrong_author",
+    "citation": {
+      "doi": "10.7759/cureus.39238",
+      "title": "High Rates of Fabricated and Inaccurate References in ChatGPT-Generated Medical Content",
+      "authors": [
+        "SyntheticWrongAuthor"
+      ],
+      "year": 2023,
+      "venue": "Cureus"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "pilot-001-wrong_doi",
+    "source_id": "10.7759/cureus.39238",
+    "donor_id": "10.1145/3065386",
+    "split": "pilot",
+    "category": "wrong_doi",
+    "citation": {
+      "doi": "10.1145/3065386",
+      "title": "High Rates of Fabricated and Inaccurate References in ChatGPT-Generated Medical Content",
+      "authors": [
+        "Bhattacharyya",
+        "Miller",
+        "Bhattacharyya",
+        "Miller"
+      ],
+      "year": 2023,
+      "venue": "Cureus"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "pilot-001-frankenstein",
+    "source_id": "10.7759/cureus.39238",
+    "donor_id": "10.1145/3065386",
+    "split": "pilot",
+    "category": "frankenstein",
+    "citation": {
+      "doi": "10.7759/cureus.39238",
+      "title": "ImageNet classification with deep convolutional neural networks",
+      "authors": [
+        "Bhattacharyya",
+        "Miller",
+        "Bhattacharyya",
+        "Miller"
+      ],
+      "year": 2023,
+      "venue": "Cureus"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "pilot-001-synthetic_unmatched",
+    "source_id": "10.7759/cureus.39238",
+    "donor_id": "",
+    "split": "pilot",
+    "category": "synthetic_unmatched",
+    "citation": {
+      "doi": "10.0000/lab07-a49f42b564b47a50",
+      "title": "Synthetic Lab07 nonexistent test item 1",
+      "authors": [
+        "SyntheticWrongAuthor"
+      ],
+      "year": 2023,
+      "venue": "Cureus"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "pilot-002-clean",
+    "source_id": "10.1145/3065386",
+    "donor_id": "",
+    "split": "pilot",
+    "category": "clean",
+    "citation": {
+      "doi": "10.1145/3065386",
+      "title": "ImageNet classification with deep convolutional neural networks",
+      "authors": [
+        "Krizhevsky",
+        "Sutskever",
+        "Hinton"
+      ],
+      "year": 2017,
+      "venue": "Communications of the ACM"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "pilot-002-format_variant",
+    "source_id": "10.1145/3065386",
+    "donor_id": "",
+    "split": "pilot",
+    "category": "format_variant",
+    "citation": {
+      "doi": "https://doi.org/10.1145/3065386",
+      "title": "IMAGENET CLASSIFICATION WITH DEEP CONVOLUTIONAL NEURAL NETWORKS",
+      "authors": [
+        "Krizhevsky",
+        "Sutskever",
+        "Hinton"
+      ],
+      "year": 2017,
+      "venue": "Communications of the ACM"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "pilot-002-missing_doi",
+    "source_id": "10.1145/3065386",
+    "donor_id": "",
+    "split": "pilot",
+    "category": "missing_doi",
+    "citation": {
+      "doi": "",
+      "title": "ImageNet classification with deep convolutional neural networks",
+      "authors": [
+        "Krizhevsky",
+        "Sutskever",
+        "Hinton"
+      ],
+      "year": 2017,
+      "venue": "Communications of the ACM"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "pilot-002-wrong_year",
+    "source_id": "10.1145/3065386",
+    "donor_id": "",
+    "split": "pilot",
+    "category": "wrong_year",
+    "citation": {
+      "doi": "10.1145/3065386",
+      "title": "ImageNet classification with deep convolutional neural networks",
+      "authors": [
+        "Krizhevsky",
+        "Sutskever",
+        "Hinton"
+      ],
+      "year": 2024,
+      "venue": "Communications of the ACM"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "pilot-002-wrong_author",
+    "source_id": "10.1145/3065386",
+    "donor_id": "",
+    "split": "pilot",
+    "category": "wrong_author",
+    "citation": {
+      "doi": "10.1145/3065386",
+      "title": "ImageNet classification with deep convolutional neural networks",
+      "authors": [
+        "SyntheticWrongAuthor"
+      ],
+      "year": 2017,
+      "venue": "Communications of the ACM"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "pilot-002-wrong_doi",
+    "source_id": "10.1145/3065386",
+    "donor_id": "10.1145/3442188.3445922",
+    "split": "pilot",
+    "category": "wrong_doi",
+    "citation": {
+      "doi": "10.1145/3442188.3445922",
+      "title": "ImageNet classification with deep convolutional neural networks",
+      "authors": [
+        "Krizhevsky",
+        "Sutskever",
+        "Hinton"
+      ],
+      "year": 2017,
+      "venue": "Communications of the ACM"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "pilot-002-frankenstein",
+    "source_id": "10.1145/3065386",
+    "donor_id": "10.1145/3442188.3445922",
+    "split": "pilot",
+    "category": "frankenstein",
+    "citation": {
+      "doi": "10.1145/3065386",
+      "title": "On the Dangers of Stochastic Parrots",
+      "authors": [
+        "Krizhevsky",
+        "Sutskever",
+        "Hinton"
+      ],
+      "year": 2017,
+      "venue": "Communications of the ACM"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "pilot-002-synthetic_unmatched",
+    "source_id": "10.1145/3065386",
+    "donor_id": "",
+    "split": "pilot",
+    "category": "synthetic_unmatched",
+    "citation": {
+      "doi": "10.0000/lab07-c20dba61f182ad9e",
+      "title": "Synthetic Lab07 nonexistent test item 2",
+      "authors": [
+        "SyntheticWrongAuthor"
+      ],
+      "year": 2017,
+      "venue": "Communications of the ACM"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "pilot-003-clean",
+    "source_id": "10.1145/3442188.3445922",
+    "donor_id": "",
+    "split": "pilot",
+    "category": "clean",
+    "citation": {
+      "doi": "10.1145/3442188.3445922",
+      "title": "On the Dangers of Stochastic Parrots",
+      "authors": [
+        "Bender",
+        "Gebru",
+        "McMillan-Major",
+        "Shmitchell"
+      ],
+      "year": 2021,
+      "venue": "Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "pilot-003-format_variant",
+    "source_id": "10.1145/3442188.3445922",
+    "donor_id": "",
+    "split": "pilot",
+    "category": "format_variant",
+    "citation": {
+      "doi": "https://doi.org/10.1145/3442188.3445922",
+      "title": "ON THE DANGERS OF STOCHASTIC PARROTS",
+      "authors": [
+        "Bender",
+        "Gebru",
+        "McMillan-Major",
+        "Shmitchell"
+      ],
+      "year": 2021,
+      "venue": "Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "pilot-003-missing_doi",
+    "source_id": "10.1145/3442188.3445922",
+    "donor_id": "",
+    "split": "pilot",
+    "category": "missing_doi",
+    "citation": {
+      "doi": "",
+      "title": "On the Dangers of Stochastic Parrots",
+      "authors": [
+        "Bender",
+        "Gebru",
+        "McMillan-Major",
+        "Shmitchell"
+      ],
+      "year": 2021,
+      "venue": "Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "pilot-003-wrong_year",
+    "source_id": "10.1145/3442188.3445922",
+    "donor_id": "",
+    "split": "pilot",
+    "category": "wrong_year",
+    "citation": {
+      "doi": "10.1145/3442188.3445922",
+      "title": "On the Dangers of Stochastic Parrots",
+      "authors": [
+        "Bender",
+        "Gebru",
+        "McMillan-Major",
+        "Shmitchell"
+      ],
+      "year": 2028,
+      "venue": "Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "pilot-003-wrong_author",
+    "source_id": "10.1145/3442188.3445922",
+    "donor_id": "",
+    "split": "pilot",
+    "category": "wrong_author",
+    "citation": {
+      "doi": "10.1145/3442188.3445922",
+      "title": "On the Dangers of Stochastic Parrots",
+      "authors": [
+        "SyntheticWrongAuthor"
+      ],
+      "year": 2021,
+      "venue": "Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "pilot-003-wrong_doi",
+    "source_id": "10.1145/3442188.3445922",
+    "donor_id": "10.18653/v1/2024.findings-eacl.62",
+    "split": "pilot",
+    "category": "wrong_doi",
+    "citation": {
+      "doi": "10.18653/v1/2024.findings-eacl.62",
+      "title": "On the Dangers of Stochastic Parrots",
+      "authors": [
+        "Bender",
+        "Gebru",
+        "McMillan-Major",
+        "Shmitchell"
+      ],
+      "year": 2021,
+      "venue": "Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "pilot-003-frankenstein",
+    "source_id": "10.1145/3442188.3445922",
+    "donor_id": "10.18653/v1/2024.findings-eacl.62",
+    "split": "pilot",
+    "category": "frankenstein",
+    "citation": {
+      "doi": "10.1145/3442188.3445922",
+      "title": "Do Language Models Know When They’re Hallucinating References?",
+      "authors": [
+        "Bender",
+        "Gebru",
+        "McMillan-Major",
+        "Shmitchell"
+      ],
+      "year": 2021,
+      "venue": "Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "pilot-003-synthetic_unmatched",
+    "source_id": "10.1145/3442188.3445922",
+    "donor_id": "",
+    "split": "pilot",
+    "category": "synthetic_unmatched",
+    "citation": {
+      "doi": "10.0000/lab07-5aa8e01294ddfb1f",
+      "title": "Synthetic Lab07 nonexistent test item 3",
+      "authors": [
+        "SyntheticWrongAuthor"
+      ],
+      "year": 2021,
+      "venue": "Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "test-000-clean",
+    "source_id": "10.18653/v1/2023.emnlp-main.398",
+    "donor_id": "",
+    "split": "test",
+    "category": "clean",
+    "citation": {
+      "doi": "10.18653/v1/2023.emnlp-main.398",
+      "title": "Enabling Large Language Models to Generate Text with Citations",
+      "authors": [
+        "Gao",
+        "Yen",
+        "Yu",
+        "Chen"
+      ],
+      "year": 2023,
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-000-format_variant",
+    "source_id": "10.18653/v1/2023.emnlp-main.398",
+    "donor_id": "",
+    "split": "test",
+    "category": "format_variant",
+    "citation": {
+      "doi": "https://doi.org/10.18653/V1/2023.EMNLP-MAIN.398",
+      "title": "ENABLING LARGE LANGUAGE MODELS TO GENERATE TEXT WITH CITATIONS",
+      "authors": [
+        "Gao",
+        "Yen",
+        "Yu",
+        "Chen"
+      ],
+      "year": 2023,
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-000-missing_doi",
+    "source_id": "10.18653/v1/2023.emnlp-main.398",
+    "donor_id": "",
+    "split": "test",
+    "category": "missing_doi",
+    "citation": {
+      "doi": "",
+      "title": "Enabling Large Language Models to Generate Text with Citations",
+      "authors": [
+        "Gao",
+        "Yen",
+        "Yu",
+        "Chen"
+      ],
+      "year": 2023,
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-000-wrong_year",
+    "source_id": "10.18653/v1/2023.emnlp-main.398",
+    "donor_id": "",
+    "split": "test",
+    "category": "wrong_year",
+    "citation": {
+      "doi": "10.18653/v1/2023.emnlp-main.398",
+      "title": "Enabling Large Language Models to Generate Text with Citations",
+      "authors": [
+        "Gao",
+        "Yen",
+        "Yu",
+        "Chen"
+      ],
+      "year": 2030,
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-000-wrong_author",
+    "source_id": "10.18653/v1/2023.emnlp-main.398",
+    "donor_id": "",
+    "split": "test",
+    "category": "wrong_author",
+    "citation": {
+      "doi": "10.18653/v1/2023.emnlp-main.398",
+      "title": "Enabling Large Language Models to Generate Text with Citations",
+      "authors": [
+        "SyntheticWrongAuthor"
+      ],
+      "year": 2023,
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "test-000-wrong_doi",
+    "source_id": "10.18653/v1/2023.emnlp-main.398",
+    "donor_id": "10.1038/nature14539",
+    "split": "test",
+    "category": "wrong_doi",
+    "citation": {
+      "doi": "10.1038/nature14539",
+      "title": "Enabling Large Language Models to Generate Text with Citations",
+      "authors": [
+        "Gao",
+        "Yen",
+        "Yu",
+        "Chen"
+      ],
+      "year": 2023,
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-000-frankenstein",
+    "source_id": "10.18653/v1/2023.emnlp-main.398",
+    "donor_id": "10.1038/nature14539",
+    "split": "test",
+    "category": "frankenstein",
+    "citation": {
+      "doi": "10.18653/v1/2023.emnlp-main.398",
+      "title": "Deep learning",
+      "authors": [
+        "Gao",
+        "Yen",
+        "Yu",
+        "Chen"
+      ],
+      "year": 2023,
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "test-000-synthetic_unmatched",
+    "source_id": "10.18653/v1/2023.emnlp-main.398",
+    "donor_id": "",
+    "split": "test",
+    "category": "synthetic_unmatched",
+    "citation": {
+      "doi": "10.0000/lab07-ec9682a7087cd34a",
+      "title": "Synthetic Lab07 nonexistent test item 0",
+      "authors": [
+        "SyntheticWrongAuthor"
+      ],
+      "year": 2023,
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "test-001-clean",
+    "source_id": "10.1038/nature14539",
+    "donor_id": "",
+    "split": "test",
+    "category": "clean",
+    "citation": {
+      "doi": "10.1038/nature14539",
+      "title": "Deep learning",
+      "authors": [
+        "LeCun",
+        "Bengio",
+        "Hinton"
+      ],
+      "year": 2015,
+      "venue": "Nature"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-001-format_variant",
+    "source_id": "10.1038/nature14539",
+    "donor_id": "",
+    "split": "test",
+    "category": "format_variant",
+    "citation": {
+      "doi": "https://doi.org/10.1038/NATURE14539",
+      "title": "DEEP LEARNING",
+      "authors": [
+        "LeCun",
+        "Bengio",
+        "Hinton"
+      ],
+      "year": 2015,
+      "venue": "Nature"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-001-missing_doi",
+    "source_id": "10.1038/nature14539",
+    "donor_id": "",
+    "split": "test",
+    "category": "missing_doi",
+    "citation": {
+      "doi": "",
+      "title": "Deep learning",
+      "authors": [
+        "LeCun",
+        "Bengio",
+        "Hinton"
+      ],
+      "year": 2015,
+      "venue": "Nature"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-001-wrong_year",
+    "source_id": "10.1038/nature14539",
+    "donor_id": "",
+    "split": "test",
+    "category": "wrong_year",
+    "citation": {
+      "doi": "10.1038/nature14539",
+      "title": "Deep learning",
+      "authors": [
+        "LeCun",
+        "Bengio",
+        "Hinton"
+      ],
+      "year": 2022,
+      "venue": "Nature"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-001-wrong_author",
+    "source_id": "10.1038/nature14539",
+    "donor_id": "",
+    "split": "test",
+    "category": "wrong_author",
+    "citation": {
+      "doi": "10.1038/nature14539",
+      "title": "Deep learning",
+      "authors": [
+        "SyntheticWrongAuthor"
+      ],
+      "year": 2015,
+      "venue": "Nature"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "test-001-wrong_doi",
+    "source_id": "10.1038/nature14539",
+    "donor_id": "10.1038/s41598-023-41032-5",
+    "split": "test",
+    "category": "wrong_doi",
+    "citation": {
+      "doi": "10.1038/s41598-023-41032-5",
+      "title": "Deep learning",
+      "authors": [
+        "LeCun",
+        "Bengio",
+        "Hinton"
+      ],
+      "year": 2015,
+      "venue": "Nature"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-001-frankenstein",
+    "source_id": "10.1038/nature14539",
+    "donor_id": "10.1038/s41598-023-41032-5",
+    "split": "test",
+    "category": "frankenstein",
+    "citation": {
+      "doi": "10.1038/nature14539",
+      "title": "Fabrication and errors in the bibliographic citations generated by ChatGPT",
+      "authors": [
+        "LeCun",
+        "Bengio",
+        "Hinton"
+      ],
+      "year": 2015,
+      "venue": "Nature"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "test-001-synthetic_unmatched",
+    "source_id": "10.1038/nature14539",
+    "donor_id": "",
+    "split": "test",
+    "category": "synthetic_unmatched",
+    "citation": {
+      "doi": "10.0000/lab07-2fbc9ecc14f74b96",
+      "title": "Synthetic Lab07 nonexistent test item 1",
+      "authors": [
+        "SyntheticWrongAuthor"
+      ],
+      "year": 2015,
+      "venue": "Nature"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "test-002-clean",
+    "source_id": "10.1038/s41598-023-41032-5",
+    "donor_id": "",
+    "split": "test",
+    "category": "clean",
+    "citation": {
+      "doi": "10.1038/s41598-023-41032-5",
+      "title": "Fabrication and errors in the bibliographic citations generated by ChatGPT",
+      "authors": [
+        "Walters",
+        "Wilder"
+      ],
+      "year": 2023,
+      "venue": "Scientific Reports"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-002-format_variant",
+    "source_id": "10.1038/s41598-023-41032-5",
+    "donor_id": "",
+    "split": "test",
+    "category": "format_variant",
+    "citation": {
+      "doi": "https://doi.org/10.1038/S41598-023-41032-5",
+      "title": "FABRICATION AND ERRORS IN THE BIBLIOGRAPHIC CITATIONS GENERATED BY CHATGPT",
+      "authors": [
+        "Walters",
+        "Wilder"
+      ],
+      "year": 2023,
+      "venue": "Scientific Reports"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-002-missing_doi",
+    "source_id": "10.1038/s41598-023-41032-5",
+    "donor_id": "",
+    "split": "test",
+    "category": "missing_doi",
+    "citation": {
+      "doi": "",
+      "title": "Fabrication and errors in the bibliographic citations generated by ChatGPT",
+      "authors": [
+        "Walters",
+        "Wilder"
+      ],
+      "year": 2023,
+      "venue": "Scientific Reports"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-002-wrong_year",
+    "source_id": "10.1038/s41598-023-41032-5",
+    "donor_id": "",
+    "split": "test",
+    "category": "wrong_year",
+    "citation": {
+      "doi": "10.1038/s41598-023-41032-5",
+      "title": "Fabrication and errors in the bibliographic citations generated by ChatGPT",
+      "authors": [
+        "Walters",
+        "Wilder"
+      ],
+      "year": 2030,
+      "venue": "Scientific Reports"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-002-wrong_author",
+    "source_id": "10.1038/s41598-023-41032-5",
+    "donor_id": "",
+    "split": "test",
+    "category": "wrong_author",
+    "citation": {
+      "doi": "10.1038/s41598-023-41032-5",
+      "title": "Fabrication and errors in the bibliographic citations generated by ChatGPT",
+      "authors": [
+        "SyntheticWrongAuthor"
+      ],
+      "year": 2023,
+      "venue": "Scientific Reports"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "test-002-wrong_doi",
+    "source_id": "10.1038/s41598-023-41032-5",
+    "donor_id": "10.18653/v1/2023.emnlp-main.557",
+    "split": "test",
+    "category": "wrong_doi",
+    "citation": {
+      "doi": "10.18653/v1/2023.emnlp-main.557",
+      "title": "Fabrication and errors in the bibliographic citations generated by ChatGPT",
+      "authors": [
+        "Walters",
+        "Wilder"
+      ],
+      "year": 2023,
+      "venue": "Scientific Reports"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-002-frankenstein",
+    "source_id": "10.1038/s41598-023-41032-5",
+    "donor_id": "10.18653/v1/2023.emnlp-main.557",
+    "split": "test",
+    "category": "frankenstein",
+    "citation": {
+      "doi": "10.1038/s41598-023-41032-5",
+      "title": "SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models",
+      "authors": [
+        "Walters",
+        "Wilder"
+      ],
+      "year": 2023,
+      "venue": "Scientific Reports"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "test-002-synthetic_unmatched",
+    "source_id": "10.1038/s41598-023-41032-5",
+    "donor_id": "",
+    "split": "test",
+    "category": "synthetic_unmatched",
+    "citation": {
+      "doi": "10.0000/lab07-07b0c8200b7cd2ce",
+      "title": "Synthetic Lab07 nonexistent test item 2",
+      "authors": [
+        "SyntheticWrongAuthor"
+      ],
+      "year": 2023,
+      "venue": "Scientific Reports"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "test-003-clean",
+    "source_id": "10.18653/v1/2023.emnlp-main.557",
+    "donor_id": "",
+    "split": "test",
+    "category": "clean",
+    "citation": {
+      "doi": "10.18653/v1/2023.emnlp-main.557",
+      "title": "SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models",
+      "authors": [
+        "Manakul",
+        "Liusie",
+        "Gales"
+      ],
+      "year": 2023,
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-003-format_variant",
+    "source_id": "10.18653/v1/2023.emnlp-main.557",
+    "donor_id": "",
+    "split": "test",
+    "category": "format_variant",
+    "citation": {
+      "doi": "https://doi.org/10.18653/V1/2023.EMNLP-MAIN.557",
+      "title": "SELFCHECKGPT: ZERO-RESOURCE BLACK-BOX HALLUCINATION DETECTION FOR GENERATIVE LARGE LANGUAGE MODELS",
+      "authors": [
+        "Manakul",
+        "Liusie",
+        "Gales"
+      ],
+      "year": 2023,
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-003-missing_doi",
+    "source_id": "10.18653/v1/2023.emnlp-main.557",
+    "donor_id": "",
+    "split": "test",
+    "category": "missing_doi",
+    "citation": {
+      "doi": "",
+      "title": "SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models",
+      "authors": [
+        "Manakul",
+        "Liusie",
+        "Gales"
+      ],
+      "year": 2023,
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-003-wrong_year",
+    "source_id": "10.18653/v1/2023.emnlp-main.557",
+    "donor_id": "",
+    "split": "test",
+    "category": "wrong_year",
+    "citation": {
+      "doi": "10.18653/v1/2023.emnlp-main.557",
+      "title": "SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models",
+      "authors": [
+        "Manakul",
+        "Liusie",
+        "Gales"
+      ],
+      "year": 2030,
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-003-wrong_author",
+    "source_id": "10.18653/v1/2023.emnlp-main.557",
+    "donor_id": "",
+    "split": "test",
+    "category": "wrong_author",
+    "citation": {
+      "doi": "10.18653/v1/2023.emnlp-main.557",
+      "title": "SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models",
+      "authors": [
+        "SyntheticWrongAuthor"
+      ],
+      "year": 2023,
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "test-003-wrong_doi",
+    "source_id": "10.18653/v1/2023.emnlp-main.557",
+    "donor_id": "10.18653/v1/2023.emnlp-main.741",
+    "split": "test",
+    "category": "wrong_doi",
+    "citation": {
+      "doi": "10.18653/v1/2023.emnlp-main.741",
+      "title": "SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models",
+      "authors": [
+        "Manakul",
+        "Liusie",
+        "Gales"
+      ],
+      "year": 2023,
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-003-frankenstein",
+    "source_id": "10.18653/v1/2023.emnlp-main.557",
+    "donor_id": "10.18653/v1/2023.emnlp-main.741",
+    "split": "test",
+    "category": "frankenstein",
+    "citation": {
+      "doi": "10.18653/v1/2023.emnlp-main.557",
+      "title": "FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation",
+      "authors": [
+        "Manakul",
+        "Liusie",
+        "Gales"
+      ],
+      "year": 2023,
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "test-003-synthetic_unmatched",
+    "source_id": "10.18653/v1/2023.emnlp-main.557",
+    "donor_id": "",
+    "split": "test",
+    "category": "synthetic_unmatched",
+    "citation": {
+      "doi": "10.0000/lab07-b896101865a53b53",
+      "title": "Synthetic Lab07 nonexistent test item 3",
+      "authors": [
+        "SyntheticWrongAuthor"
+      ],
+      "year": 2023,
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "test-004-clean",
+    "source_id": "10.18653/v1/2023.emnlp-main.741",
+    "donor_id": "",
+    "split": "test",
+    "category": "clean",
+    "citation": {
+      "doi": "10.18653/v1/2023.emnlp-main.741",
+      "title": "FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation",
+      "authors": [
+        "Min",
+        "Krishna",
+        "Lyu",
+        "Lewis",
+        "Yih",
+        "Koh",
+        "Iyyer",
+        "Zettlemoyer",
+        "Hajishirzi"
+      ],
+      "year": 2023,
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-004-format_variant",
+    "source_id": "10.18653/v1/2023.emnlp-main.741",
+    "donor_id": "",
+    "split": "test",
+    "category": "format_variant",
+    "citation": {
+      "doi": "https://doi.org/10.18653/V1/2023.EMNLP-MAIN.741",
+      "title": "FACTSCORE: FINE-GRAINED ATOMIC EVALUATION OF FACTUAL PRECISION IN LONG FORM TEXT GENERATION",
+      "authors": [
+        "Min",
+        "Krishna",
+        "Lyu",
+        "Lewis",
+        "Yih",
+        "Koh",
+        "Iyyer",
+        "Zettlemoyer",
+        "Hajishirzi"
+      ],
+      "year": 2023,
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-004-missing_doi",
+    "source_id": "10.18653/v1/2023.emnlp-main.741",
+    "donor_id": "",
+    "split": "test",
+    "category": "missing_doi",
+    "citation": {
+      "doi": "",
+      "title": "FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation",
+      "authors": [
+        "Min",
+        "Krishna",
+        "Lyu",
+        "Lewis",
+        "Yih",
+        "Koh",
+        "Iyyer",
+        "Zettlemoyer",
+        "Hajishirzi"
+      ],
+      "year": 2023,
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-004-wrong_year",
+    "source_id": "10.18653/v1/2023.emnlp-main.741",
+    "donor_id": "",
+    "split": "test",
+    "category": "wrong_year",
+    "citation": {
+      "doi": "10.18653/v1/2023.emnlp-main.741",
+      "title": "FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation",
+      "authors": [
+        "Min",
+        "Krishna",
+        "Lyu",
+        "Lewis",
+        "Yih",
+        "Koh",
+        "Iyyer",
+        "Zettlemoyer",
+        "Hajishirzi"
+      ],
+      "year": 2030,
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-004-wrong_author",
+    "source_id": "10.18653/v1/2023.emnlp-main.741",
+    "donor_id": "",
+    "split": "test",
+    "category": "wrong_author",
+    "citation": {
+      "doi": "10.18653/v1/2023.emnlp-main.741",
+      "title": "FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation",
+      "authors": [
+        "SyntheticWrongAuthor"
+      ],
+      "year": 2023,
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "test-004-wrong_doi",
+    "source_id": "10.18653/v1/2023.emnlp-main.741",
+    "donor_id": "10.1038/nature16961",
+    "split": "test",
+    "category": "wrong_doi",
+    "citation": {
+      "doi": "10.1038/nature16961",
+      "title": "FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation",
+      "authors": [
+        "Min",
+        "Krishna",
+        "Lyu",
+        "Lewis",
+        "Yih",
+        "Koh",
+        "Iyyer",
+        "Zettlemoyer",
+        "Hajishirzi"
+      ],
+      "year": 2023,
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-004-frankenstein",
+    "source_id": "10.18653/v1/2023.emnlp-main.741",
+    "donor_id": "10.1038/nature16961",
+    "split": "test",
+    "category": "frankenstein",
+    "citation": {
+      "doi": "10.18653/v1/2023.emnlp-main.741",
+      "title": "Mastering the game of Go with deep neural networks and tree search",
+      "authors": [
+        "Min",
+        "Krishna",
+        "Lyu",
+        "Lewis",
+        "Yih",
+        "Koh",
+        "Iyyer",
+        "Zettlemoyer",
+        "Hajishirzi"
+      ],
+      "year": 2023,
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "test-004-synthetic_unmatched",
+    "source_id": "10.18653/v1/2023.emnlp-main.741",
+    "donor_id": "",
+    "split": "test",
+    "category": "synthetic_unmatched",
+    "citation": {
+      "doi": "10.0000/lab07-e341b2834a5a3c2c",
+      "title": "Synthetic Lab07 nonexistent test item 4",
+      "authors": [
+        "SyntheticWrongAuthor"
+      ],
+      "year": 2023,
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "test-005-clean",
+    "source_id": "10.1038/nature16961",
+    "donor_id": "",
+    "split": "test",
+    "category": "clean",
+    "citation": {
+      "doi": "10.1038/nature16961",
+      "title": "Mastering the game of Go with deep neural networks and tree search",
+      "authors": [
+        "Silver",
+        "Huang",
+        "Maddison",
+        "Guez",
+        "Sifre",
+        "van den Driessche",
+        "Schrittwieser",
+        "Antonoglou",
+        "Panneershelvam",
+        "Lanctot",
+        "Dieleman",
+        "Grewe",
+        "Nham",
+        "Kalchbrenner",
+        "Sutskever",
+        "Lillicrap",
+        "Leach",
+        "Kavukcuoglu",
+        "Graepel",
+        "Hassabis"
+      ],
+      "year": 2016,
+      "venue": "Nature"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-005-format_variant",
+    "source_id": "10.1038/nature16961",
+    "donor_id": "",
+    "split": "test",
+    "category": "format_variant",
+    "citation": {
+      "doi": "https://doi.org/10.1038/NATURE16961",
+      "title": "MASTERING THE GAME OF GO WITH DEEP NEURAL NETWORKS AND TREE SEARCH",
+      "authors": [
+        "Silver",
+        "Huang",
+        "Maddison",
+        "Guez",
+        "Sifre",
+        "van den Driessche",
+        "Schrittwieser",
+        "Antonoglou",
+        "Panneershelvam",
+        "Lanctot",
+        "Dieleman",
+        "Grewe",
+        "Nham",
+        "Kalchbrenner",
+        "Sutskever",
+        "Lillicrap",
+        "Leach",
+        "Kavukcuoglu",
+        "Graepel",
+        "Hassabis"
+      ],
+      "year": 2016,
+      "venue": "Nature"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-005-missing_doi",
+    "source_id": "10.1038/nature16961",
+    "donor_id": "",
+    "split": "test",
+    "category": "missing_doi",
+    "citation": {
+      "doi": "",
+      "title": "Mastering the game of Go with deep neural networks and tree search",
+      "authors": [
+        "Silver",
+        "Huang",
+        "Maddison",
+        "Guez",
+        "Sifre",
+        "van den Driessche",
+        "Schrittwieser",
+        "Antonoglou",
+        "Panneershelvam",
+        "Lanctot",
+        "Dieleman",
+        "Grewe",
+        "Nham",
+        "Kalchbrenner",
+        "Sutskever",
+        "Lillicrap",
+        "Leach",
+        "Kavukcuoglu",
+        "Graepel",
+        "Hassabis"
+      ],
+      "year": 2016,
+      "venue": "Nature"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-005-wrong_year",
+    "source_id": "10.1038/nature16961",
+    "donor_id": "",
+    "split": "test",
+    "category": "wrong_year",
+    "citation": {
+      "doi": "10.1038/nature16961",
+      "title": "Mastering the game of Go with deep neural networks and tree search",
+      "authors": [
+        "Silver",
+        "Huang",
+        "Maddison",
+        "Guez",
+        "Sifre",
+        "van den Driessche",
+        "Schrittwieser",
+        "Antonoglou",
+        "Panneershelvam",
+        "Lanctot",
+        "Dieleman",
+        "Grewe",
+        "Nham",
+        "Kalchbrenner",
+        "Sutskever",
+        "Lillicrap",
+        "Leach",
+        "Kavukcuoglu",
+        "Graepel",
+        "Hassabis"
+      ],
+      "year": 2023,
+      "venue": "Nature"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-005-wrong_author",
+    "source_id": "10.1038/nature16961",
+    "donor_id": "",
+    "split": "test",
+    "category": "wrong_author",
+    "citation": {
+      "doi": "10.1038/nature16961",
+      "title": "Mastering the game of Go with deep neural networks and tree search",
+      "authors": [
+        "SyntheticWrongAuthor"
+      ],
+      "year": 2016,
+      "venue": "Nature"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "test-005-wrong_doi",
+    "source_id": "10.1038/nature16961",
+    "donor_id": "10.1145/3571730",
+    "split": "test",
+    "category": "wrong_doi",
+    "citation": {
+      "doi": "10.1145/3571730",
+      "title": "Mastering the game of Go with deep neural networks and tree search",
+      "authors": [
+        "Silver",
+        "Huang",
+        "Maddison",
+        "Guez",
+        "Sifre",
+        "van den Driessche",
+        "Schrittwieser",
+        "Antonoglou",
+        "Panneershelvam",
+        "Lanctot",
+        "Dieleman",
+        "Grewe",
+        "Nham",
+        "Kalchbrenner",
+        "Sutskever",
+        "Lillicrap",
+        "Leach",
+        "Kavukcuoglu",
+        "Graepel",
+        "Hassabis"
+      ],
+      "year": 2016,
+      "venue": "Nature"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-005-frankenstein",
+    "source_id": "10.1038/nature16961",
+    "donor_id": "10.1145/3571730",
+    "split": "test",
+    "category": "frankenstein",
+    "citation": {
+      "doi": "10.1038/nature16961",
+      "title": "Survey of Hallucination in Natural Language Generation",
+      "authors": [
+        "Silver",
+        "Huang",
+        "Maddison",
+        "Guez",
+        "Sifre",
+        "van den Driessche",
+        "Schrittwieser",
+        "Antonoglou",
+        "Panneershelvam",
+        "Lanctot",
+        "Dieleman",
+        "Grewe",
+        "Nham",
+        "Kalchbrenner",
+        "Sutskever",
+        "Lillicrap",
+        "Leach",
+        "Kavukcuoglu",
+        "Graepel",
+        "Hassabis"
+      ],
+      "year": 2016,
+      "venue": "Nature"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "test-005-synthetic_unmatched",
+    "source_id": "10.1038/nature16961",
+    "donor_id": "",
+    "split": "test",
+    "category": "synthetic_unmatched",
+    "citation": {
+      "doi": "10.0000/lab07-bbd0f9095d2db9c7",
+      "title": "Synthetic Lab07 nonexistent test item 5",
+      "authors": [
+        "SyntheticWrongAuthor"
+      ],
+      "year": 2016,
+      "venue": "Nature"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "test-006-clean",
+    "source_id": "10.1145/3571730",
+    "donor_id": "",
+    "split": "test",
+    "category": "clean",
+    "citation": {
+      "doi": "10.1145/3571730",
+      "title": "Survey of Hallucination in Natural Language Generation",
+      "authors": [
+        "Ji",
+        "Lee",
+        "Frieske",
+        "Yu",
+        "Su",
+        "Xu",
+        "Ishii",
+        "Bang",
+        "Madotto",
+        "Fung"
+      ],
+      "year": 2023,
+      "venue": "ACM Computing Surveys"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-006-format_variant",
+    "source_id": "10.1145/3571730",
+    "donor_id": "",
+    "split": "test",
+    "category": "format_variant",
+    "citation": {
+      "doi": "https://doi.org/10.1145/3571730",
+      "title": "SURVEY OF HALLUCINATION IN NATURAL LANGUAGE GENERATION",
+      "authors": [
+        "Ji",
+        "Lee",
+        "Frieske",
+        "Yu",
+        "Su",
+        "Xu",
+        "Ishii",
+        "Bang",
+        "Madotto",
+        "Fung"
+      ],
+      "year": 2023,
+      "venue": "ACM Computing Surveys"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-006-missing_doi",
+    "source_id": "10.1145/3571730",
+    "donor_id": "",
+    "split": "test",
+    "category": "missing_doi",
+    "citation": {
+      "doi": "",
+      "title": "Survey of Hallucination in Natural Language Generation",
+      "authors": [
+        "Ji",
+        "Lee",
+        "Frieske",
+        "Yu",
+        "Su",
+        "Xu",
+        "Ishii",
+        "Bang",
+        "Madotto",
+        "Fung"
+      ],
+      "year": 2023,
+      "venue": "ACM Computing Surveys"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-006-wrong_year",
+    "source_id": "10.1145/3571730",
+    "donor_id": "",
+    "split": "test",
+    "category": "wrong_year",
+    "citation": {
+      "doi": "10.1145/3571730",
+      "title": "Survey of Hallucination in Natural Language Generation",
+      "authors": [
+        "Ji",
+        "Lee",
+        "Frieske",
+        "Yu",
+        "Su",
+        "Xu",
+        "Ishii",
+        "Bang",
+        "Madotto",
+        "Fung"
+      ],
+      "year": 2030,
+      "venue": "ACM Computing Surveys"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-006-wrong_author",
+    "source_id": "10.1145/3571730",
+    "donor_id": "",
+    "split": "test",
+    "category": "wrong_author",
+    "citation": {
+      "doi": "10.1145/3571730",
+      "title": "Survey of Hallucination in Natural Language Generation",
+      "authors": [
+        "SyntheticWrongAuthor"
+      ],
+      "year": 2023,
+      "venue": "ACM Computing Surveys"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "test-006-wrong_doi",
+    "source_id": "10.1145/3571730",
+    "donor_id": "10.1038/s41586-021-03819-2",
+    "split": "test",
+    "category": "wrong_doi",
+    "citation": {
+      "doi": "10.1038/s41586-021-03819-2",
+      "title": "Survey of Hallucination in Natural Language Generation",
+      "authors": [
+        "Ji",
+        "Lee",
+        "Frieske",
+        "Yu",
+        "Su",
+        "Xu",
+        "Ishii",
+        "Bang",
+        "Madotto",
+        "Fung"
+      ],
+      "year": 2023,
+      "venue": "ACM Computing Surveys"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-006-frankenstein",
+    "source_id": "10.1145/3571730",
+    "donor_id": "10.1038/s41586-021-03819-2",
+    "split": "test",
+    "category": "frankenstein",
+    "citation": {
+      "doi": "10.1145/3571730",
+      "title": "Highly accurate protein structure prediction with AlphaFold",
+      "authors": [
+        "Ji",
+        "Lee",
+        "Frieske",
+        "Yu",
+        "Su",
+        "Xu",
+        "Ishii",
+        "Bang",
+        "Madotto",
+        "Fung"
+      ],
+      "year": 2023,
+      "venue": "ACM Computing Surveys"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "test-006-synthetic_unmatched",
+    "source_id": "10.1145/3571730",
+    "donor_id": "",
+    "split": "test",
+    "category": "synthetic_unmatched",
+    "citation": {
+      "doi": "10.0000/lab07-4a246d97e2ef3575",
+      "title": "Synthetic Lab07 nonexistent test item 6",
+      "authors": [
+        "SyntheticWrongAuthor"
+      ],
+      "year": 2023,
+      "venue": "ACM Computing Surveys"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "test-007-clean",
+    "source_id": "10.1038/s41586-021-03819-2",
+    "donor_id": "",
+    "split": "test",
+    "category": "clean",
+    "citation": {
+      "doi": "10.1038/s41586-021-03819-2",
+      "title": "Highly accurate protein structure prediction with AlphaFold",
+      "authors": [
+        "Jumper",
+        "Evans",
+        "Pritzel",
+        "Green",
+        "Figurnov",
+        "Ronneberger",
+        "Tunyasuvunakool",
+        "Bates",
+        "Žídek",
+        "Potapenko",
+        "Bridgland",
+        "Meyer",
+        "Kohl",
+        "Ballard",
+        "Cowie",
+        "Romera-Paredes",
+        "Nikolov",
+        "Jain",
+        "Adler",
+        "Back",
+        "Petersen",
+        "Reiman",
+        "Clancy",
+        "Zielinski",
+        "Steinegger",
+        "Pacholska",
+        "Berghammer",
+        "Bodenstein",
+        "Silver",
+        "Vinyals",
+        "Senior",
+        "Kavukcuoglu",
+        "Kohli",
+        "Hassabis"
+      ],
+      "year": 2021,
+      "venue": "Nature"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-007-format_variant",
+    "source_id": "10.1038/s41586-021-03819-2",
+    "donor_id": "",
+    "split": "test",
+    "category": "format_variant",
+    "citation": {
+      "doi": "https://doi.org/10.1038/S41586-021-03819-2",
+      "title": "HIGHLY ACCURATE PROTEIN STRUCTURE PREDICTION WITH ALPHAFOLD",
+      "authors": [
+        "Jumper",
+        "Evans",
+        "Pritzel",
+        "Green",
+        "Figurnov",
+        "Ronneberger",
+        "Tunyasuvunakool",
+        "Bates",
+        "Žídek",
+        "Potapenko",
+        "Bridgland",
+        "Meyer",
+        "Kohl",
+        "Ballard",
+        "Cowie",
+        "Romera-Paredes",
+        "Nikolov",
+        "Jain",
+        "Adler",
+        "Back",
+        "Petersen",
+        "Reiman",
+        "Clancy",
+        "Zielinski",
+        "Steinegger",
+        "Pacholska",
+        "Berghammer",
+        "Bodenstein",
+        "Silver",
+        "Vinyals",
+        "Senior",
+        "Kavukcuoglu",
+        "Kohli",
+        "Hassabis"
+      ],
+      "year": 2021,
+      "venue": "Nature"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-007-missing_doi",
+    "source_id": "10.1038/s41586-021-03819-2",
+    "donor_id": "",
+    "split": "test",
+    "category": "missing_doi",
+    "citation": {
+      "doi": "",
+      "title": "Highly accurate protein structure prediction with AlphaFold",
+      "authors": [
+        "Jumper",
+        "Evans",
+        "Pritzel",
+        "Green",
+        "Figurnov",
+        "Ronneberger",
+        "Tunyasuvunakool",
+        "Bates",
+        "Žídek",
+        "Potapenko",
+        "Bridgland",
+        "Meyer",
+        "Kohl",
+        "Ballard",
+        "Cowie",
+        "Romera-Paredes",
+        "Nikolov",
+        "Jain",
+        "Adler",
+        "Back",
+        "Petersen",
+        "Reiman",
+        "Clancy",
+        "Zielinski",
+        "Steinegger",
+        "Pacholska",
+        "Berghammer",
+        "Bodenstein",
+        "Silver",
+        "Vinyals",
+        "Senior",
+        "Kavukcuoglu",
+        "Kohli",
+        "Hassabis"
+      ],
+      "year": 2021,
+      "venue": "Nature"
+    },
+    "labels": {
+      "any_error": false,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-007-wrong_year",
+    "source_id": "10.1038/s41586-021-03819-2",
+    "donor_id": "",
+    "split": "test",
+    "category": "wrong_year",
+    "citation": {
+      "doi": "10.1038/s41586-021-03819-2",
+      "title": "Highly accurate protein structure prediction with AlphaFold",
+      "authors": [
+        "Jumper",
+        "Evans",
+        "Pritzel",
+        "Green",
+        "Figurnov",
+        "Ronneberger",
+        "Tunyasuvunakool",
+        "Bates",
+        "Žídek",
+        "Potapenko",
+        "Bridgland",
+        "Meyer",
+        "Kohl",
+        "Ballard",
+        "Cowie",
+        "Romera-Paredes",
+        "Nikolov",
+        "Jain",
+        "Adler",
+        "Back",
+        "Petersen",
+        "Reiman",
+        "Clancy",
+        "Zielinski",
+        "Steinegger",
+        "Pacholska",
+        "Berghammer",
+        "Bodenstein",
+        "Silver",
+        "Vinyals",
+        "Senior",
+        "Kavukcuoglu",
+        "Kohli",
+        "Hassabis"
+      ],
+      "year": 2028,
+      "venue": "Nature"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-007-wrong_author",
+    "source_id": "10.1038/s41586-021-03819-2",
+    "donor_id": "",
+    "split": "test",
+    "category": "wrong_author",
+    "citation": {
+      "doi": "10.1038/s41586-021-03819-2",
+      "title": "Highly accurate protein structure prediction with AlphaFold",
+      "authors": [
+        "SyntheticWrongAuthor"
+      ],
+      "year": 2021,
+      "venue": "Nature"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "test-007-wrong_doi",
+    "source_id": "10.1038/s41586-021-03819-2",
+    "donor_id": "10.18653/v1/2023.emnlp-main.398",
+    "split": "test",
+    "category": "wrong_doi",
+    "citation": {
+      "doi": "10.18653/v1/2023.emnlp-main.398",
+      "title": "Highly accurate protein structure prediction with AlphaFold",
+      "authors": [
+        "Jumper",
+        "Evans",
+        "Pritzel",
+        "Green",
+        "Figurnov",
+        "Ronneberger",
+        "Tunyasuvunakool",
+        "Bates",
+        "Žídek",
+        "Potapenko",
+        "Bridgland",
+        "Meyer",
+        "Kohl",
+        "Ballard",
+        "Cowie",
+        "Romera-Paredes",
+        "Nikolov",
+        "Jain",
+        "Adler",
+        "Back",
+        "Petersen",
+        "Reiman",
+        "Clancy",
+        "Zielinski",
+        "Steinegger",
+        "Pacholska",
+        "Berghammer",
+        "Bodenstein",
+        "Silver",
+        "Vinyals",
+        "Senior",
+        "Kavukcuoglu",
+        "Kohli",
+        "Hassabis"
+      ],
+      "year": 2021,
+      "venue": "Nature"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": false
+    }
+  },
+  {
+    "id": "test-007-frankenstein",
+    "source_id": "10.1038/s41586-021-03819-2",
+    "donor_id": "10.18653/v1/2023.emnlp-main.398",
+    "split": "test",
+    "category": "frankenstein",
+    "citation": {
+      "doi": "10.1038/s41586-021-03819-2",
+      "title": "Enabling Large Language Models to Generate Text with Citations",
+      "authors": [
+        "Jumper",
+        "Evans",
+        "Pritzel",
+        "Green",
+        "Figurnov",
+        "Ronneberger",
+        "Tunyasuvunakool",
+        "Bates",
+        "Žídek",
+        "Potapenko",
+        "Bridgland",
+        "Meyer",
+        "Kohl",
+        "Ballard",
+        "Cowie",
+        "Romera-Paredes",
+        "Nikolov",
+        "Jain",
+        "Adler",
+        "Back",
+        "Petersen",
+        "Reiman",
+        "Clancy",
+        "Zielinski",
+        "Steinegger",
+        "Pacholska",
+        "Berghammer",
+        "Bodenstein",
+        "Silver",
+        "Vinyals",
+        "Senior",
+        "Kavukcuoglu",
+        "Kohli",
+        "Hassabis"
+      ],
+      "year": 2021,
+      "venue": "Nature"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  },
+  {
+    "id": "test-007-synthetic_unmatched",
+    "source_id": "10.1038/s41586-021-03819-2",
+    "donor_id": "",
+    "split": "test",
+    "category": "synthetic_unmatched",
+    "citation": {
+      "doi": "10.0000/lab07-2d088b5b0b596cbf",
+      "title": "Synthetic Lab07 nonexistent test item 7",
+      "authors": [
+        "SyntheticWrongAuthor"
+      ],
+      "year": 2021,
+      "venue": "Nature"
+    },
+    "labels": {
+      "any_error": true,
+      "identity_only": true
+    }
+  }
+]

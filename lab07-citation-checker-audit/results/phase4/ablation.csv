@@ -1,0 +1,10 @@
+variant,macro_recall,clean_fpr,recall_wrong_year,recall_wrong_author,recall_wrong_doi,recall_frankenstein,recall_synthetic_unmatched,stress_false_flag_rate,flags_et_al_first_author,flags_subtitle_dropped,flags_venue_abbrev,flags_print_year,flags_title_hyphen_break
+B2 all fields,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.5402298850574713,30,5,11,1,0
+title only,0.6,0.0,0.0,0.0,1.0,1.0,1.0,0.05747126436781609,0,5,0,0,0
+authors only,0.6,0.0,0.0,1.0,1.0,0.0,1.0,0.3448275862068966,30,0,0,0,0
+year only,0.6,0.0,1.0,0.0,1.0,0.0,1.0,0.011494252873563218,0,0,0,1,0
+venue only,0.4,0.0,0.0,0.0,1.0,0.0,1.0,0.12643678160919541,0,0,11,0,0
+without title,0.8,0.0,1.0,1.0,1.0,0.0,1.0,0.4827586206896552,30,0,11,1,0
+without authors,0.8,0.0,1.0,0.0,1.0,1.0,1.0,0.19540229885057472,0,5,11,1,0
+without year,0.8,0.0,0.0,1.0,1.0,1.0,1.0,0.5287356321839081,30,5,11,0,0
+without venue,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.41379310344827586,30,5,0,1,0

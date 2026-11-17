@@ -1,0 +1,101 @@
+{
+  "all": {
+    "n": 32,
+    "tp": 4,
+    "fp": 0,
+    "fn_including_abstain": 16,
+    "precision": 1.0,
+    "recall": 0.2,
+    "f1": 0.3333333333333333,
+    "false_positive_rate": 0.0,
+    "coverage": 0.875
+  },
+  "clean": {
+    "n": 4,
+    "tp": 0,
+    "fp": 0,
+    "fn_including_abstain": 0,
+    "precision": null,
+    "recall": null,
+    "f1": null,
+    "false_positive_rate": 0.0,
+    "coverage": 1.0
+  },
+  "format_variant": {
+    "n": 4,
+    "tp": 0,
+    "fp": 0,
+    "fn_including_abstain": 0,
+    "precision": null,
+    "recall": null,
+    "f1": null,
+    "false_positive_rate": 0.0,
+    "coverage": 1.0
+  },
+  "frankenstein": {
+    "n": 4,
+    "tp": 0,
+    "fp": 0,
+    "fn_including_abstain": 4,
+    "precision": null,
+    "recall": 0.0,
+    "f1": 0.0,
+    "false_positive_rate": null,
+    "coverage": 1.0
+  },
+  "missing_doi": {
+    "n": 4,
+    "tp": 0,
+    "fp": 0,
+    "fn_including_abstain": 0,
+    "precision": null,
+    "recall": null,
+    "f1": null,
+    "false_positive_rate": 0.0,
+    "coverage": 0.0
+  },
+  "synthetic_unmatched": {
+    "n": 4,
+    "tp": 4,
+    "fp": 0,
+    "fn_including_abstain": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "false_positive_rate": null,
+    "coverage": 1.0
+  },
+  "wrong_author": {
+    "n": 4,
+    "tp": 0,
+    "fp": 0,
+    "fn_including_abstain": 4,
+    "precision": null,
+    "recall": 0.0,
+    "f1": 0.0,
+    "false_positive_rate": null,
+    "coverage": 1.0
+  },
+  "wrong_doi": {
+    "n": 4,
+    "tp": 0,
+    "fp": 0,
+    "fn_including_abstain": 4,
+    "precision": null,
+    "recall": 0.0,
+    "f1": 0.0,
+    "false_positive_rate": null,
+    "coverage": 1.0
+  },
+  "wrong_year": {
+    "n": 4,
+    "tp": 0,
+    "fp": 0,
+    "fn_including_abstain": 4,
+    "precision": null,
+    "recall": 0.0,
+    "f1": 0.0,
+    "false_positive_rate": null,
+    "coverage": 1.0
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "doi": "10.18653/v1/2024.findings-eacl.62",
+  "found": true,
+  "title": "Do Language Models Know When They’re Hallucinating References?",
+  "authors": [
+    "Agrawal",
+    "Suzgun",
+    "Mackey",
+    "Kalai"
+  ],
+  "year": 2024,
+  "venue": "Findings of the Association for Computational Linguistics: EACL 2024",
+  "url": "https://api.crossref.org/works/10.18653%2Fv1%2F2024.findings-eacl.62",
+  "retrieved_utc": "2026-10-30T04:35:09.681457+00:00"
+}

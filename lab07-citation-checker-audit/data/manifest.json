@@ -1,0 +1,7 @@
+{
+  "protocol_sha256": "1d9474a08b83d0f0d6bbd3c6fdfc2ec2e2d22d699a5ee035182fc17a58f0fce4",
+  "cases_sha256": "b970a9b479b3d5a210158e6b2c94dd8020c56888ac4401704a2b77e5bf73c3a2",
+  "sources": 12,
+  "pilot_cases": 32,
+  "held_out_cases": 64
+}

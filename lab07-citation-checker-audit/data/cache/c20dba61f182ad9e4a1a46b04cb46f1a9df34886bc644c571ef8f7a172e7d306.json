@@ -1,0 +1,14 @@
+{
+  "doi": "10.1145/3065386",
+  "found": true,
+  "title": "ImageNet classification with deep convolutional neural networks",
+  "authors": [
+    "Krizhevsky",
+    "Sutskever",
+    "Hinton"
+  ],
+  "year": 2017,
+  "venue": "Communications of the ACM",
+  "url": "https://api.crossref.org/works/10.1145%2F3065386",
+  "retrieved_utc": "2026-10-30T04:35:17.346953+00:00"
+}

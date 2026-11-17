@@ -1,0 +1,13 @@
+# Data and comparator validation sheet — Prompt 06
+
+Primary measurement source: [Crossref REST API](https://www.crossref.org/documentation/retrieve-metadata/rest-api/), with [metadata reuse terms](https://www.crossref.org/documentation/retrieve-metadata/). Dataset is generated locally from a fixed DOI list, not downloaded from a published benchmark. Metadata publication dates and provenance are stored with each record. Abstracts/full text excluded.
+
+Files: `data/cache/<SHA256(normalized DOI)>.json` = minimal cached response or 404; `data/sources.json` = clean facts; `data/cases.json` = observed citation plus source group, donor, split, mutation category and labels; `data/manifest.json` = counts/hashes. Cases are JSON arrays, not tensors. Prediction input contains only `citation`. No training data; source-group pilot/test partition is the appropriate alternative to ML train/validation/test.
+
+B1 registered-DOI control is the simplest credible baseline. B2 DOI-anchored metadata matching checks additional fields and shares the same lookup corpus; no external search or full RefChecker reproduction is claimed. Controls include clean references, harmless case/DOI-URL formatting, and valid missing-DOI references. Missing DOI is an abstention, never a fabricated-work label. Wrong DOI points to a different real work. Frankenstein combines title and metadata from different works within the same split. Synthetic unmatched fixtures test lookup failure handling; not natural LLM hallucinations.
+
+Licensing/access: bibliographic facts only, attribution and request provenance retained. No restricted datasets, keys, weights or upstream code. Runtime dependencies: Python standard library, CPU. Canonical API metadata is a convenient source of expected labels but also the checker corpus: circularity makes clean-record success easy. The mutations test algorithm wiring, not the truth/completeness of Crossref. Real reference records require independent source adjudication before external claims.
+
+Leakage checks: group by original DOI before mutations; donors remain in that group partition; unique case IDs; disjoint source DOI sets; no scorer-only fields enter prediction; held-out metrics are not generated in Phase III. Do not choose thresholds using test results. Later uncertainty should group variants by source work.
+
+Student verification checklist (pending, not recorded as done): inspect primary sources; inspect at least one record per category against source publication; confirm intended local identity definition; explain why a registered DOI alone cannot validate authors; confirm instructor accepts Pathway B. Automated checks and API execution are recorded separately in baseline validation.

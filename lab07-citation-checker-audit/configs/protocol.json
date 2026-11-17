@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "seed": 20261030,
+  "pilot_sources": 4,
+  "title_threshold": 0.9,
+  "author_threshold": 0.8,
+  "primary_definition": "any_error",
+  "phase3_methods": ["doi_only"],
+  "planned_comparator": "metadata_check",
+  "dois": [
+    "10.1038/s41598-023-41032-5",
+    "10.7759/cureus.39238",
+    "10.1145/3442188.3445922",
+    "10.1145/3571730",
+    "10.18653/v1/2023.emnlp-main.398",
+    "10.18653/v1/2023.emnlp-main.741",
+    "10.18653/v1/2023.emnlp-main.557",
+    "10.18653/v1/2024.findings-eacl.62",
+    "10.1038/s41586-021-03819-2",
+    "10.1038/nature14539",
+    "10.1145/3065386",
+    "10.1038/nature16961"
+  ]
+}

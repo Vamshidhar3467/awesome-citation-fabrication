@@ -1,0 +1,31 @@
+{
+  "doi": "10.1038/nature16961",
+  "found": true,
+  "title": "Mastering the game of Go with deep neural networks and tree search",
+  "authors": [
+    "Silver",
+    "Huang",
+    "Maddison",
+    "Guez",
+    "Sifre",
+    "van den Driessche",
+    "Schrittwieser",
+    "Antonoglou",
+    "Panneershelvam",
+    "Lanctot",
+    "Dieleman",
+    "Grewe",
+    "Nham",
+    "Kalchbrenner",
+    "Sutskever",
+    "Lillicrap",
+    "Leach",
+    "Kavukcuoglu",
+    "Graepel",
+    "Hassabis"
+  ],
+  "year": 2016,
+  "venue": "Nature",
+  "url": "https://api.crossref.org/works/10.1038%2Fnature16961",
+  "retrieved_utc": "2026-10-30T04:35:19.800409+00:00"
+}
